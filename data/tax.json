@@ -1,0 +1,441 @@
+{
+    "meta": [
+        {
+            "title": "Gömrük terminləri",
+            "description": "Gömrük terminləri",
+            "sources": [
+                {
+                    "url": "https://customs.gov.az/az/faydali/terminler-lugeti",
+                    "title": "Azərbaycan Dövlət Gömrük Komitəsi"
+                }
+            ]
+        }
+    ],
+    "tags": [],
+    "terms": [
+        {
+            "id": "Akkreditiv",
+            "title": "Akkreditiv",
+            "description": "Hesablaşma və ya pul sənədidir; qısa şəkildə \"şərtli bank öhdəliyi\" demək olar; idxalatçının (alıcının) göstərişi və təlimatı əsasında bir bankın: a) müəyyən pul məbləğini; b) müəyyən müddət daxilində; c) müəyyən sənədlər əsasında və əvvəlcədən nəzərdə tutulmuş şərtlər yerinə yetirildiyi təqdirdə ixracatçıya (satıcıya) ödəyəcəyini, ixracatçının hazırladığı sənədləri qəbul edtiyini yazılı olaraq öhdəsinə götürməsidir; Etibarlı və sürətli olduğu üçün ixracatçı üçün ən əlverişli hesablama formasıdır.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Aksiz",
+            "title": "Aksiz",
+            "description": "Kütləvi istehlak mallarına, qiymətli əşyalara və xidmətlərə qoyulan dolayı vergi növüdür; malların, xidmətlərin tarif qiymətlərinə əlavə olunaraq onları bahalaşdırır. Əsasən zinət əşyalarına, spirtli içkilərə, tütün məmulatına, qəndə, çaya və s. qoyulur. Malların idxal və ya ixracı zamanı aksizlər mövcüd qanunlara uyğun surətdə gömrük orqanları tərəfindən alınır. Gömrük tədiyyələrinin təsnifatı üzrə milli valyuta ilə alınan aksizlərin kodu 30, xarici valyuta ilə alınan və məzənnə kursu mərkəzi (milli) bank tərəfindən müəyyənləşdirilən aksizlərin kodu isə 31-dir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Antidempinq_rüsum",
+            "title": "Antidempinq rüsum",
+            "description": "Xüsusi, əlavə gömrük rüsumun növüdür, dövlətin iqtisadi maraqlarının mühafizəsinə xidmət edir; ölkənin gömrük ərazisinə ixracat ölkəsindəki normal dəyərdən yaxud orta dünya qiymətlərindən aşağı qiymətə idxal olunan mallar üzərinə idxalat ölkəsi istehsalçılarının mənafeyini mühafizə etmək, onlara maddi ziyan vurulmaması, oxşar malların istehsalının təşkili və genişləndirilməsi məqsədi ilə tətbiq olunur. QATT 1967-ci ildə antidempinq məcəlləsi qəbul etmişdir. Bütün ölkələr öz qanunlarını ona uyğunlaşdırır.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Aralıq_gömrükxana",
+            "title": "Aralıq gömrükxana",
+            "description": "Tranzit ölkəsinə məxsus gömrükxanadır və gömrük tranzit rejiminə uyğun olaraq nəqliyyat vasitələrinin ya da konteynerlərin qismən yüklənməsi və boşalmasını həyata keçirir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Azərbaycan_malları",
+            "title": "Azərbaycan malları",
+            "description": "Azərbaycanda bütövlükdə istehsal olunmuş ya da \"Gömrük tarifi\" haqqında qanunun tələblərinə uyğun olaraq kifayət qədər emala məruz qalmış mallardır. Malların Azərbaycana mənsubiyyəti Sənaye Ticarət Palatası tərəfindən verilmiş mənşə sertifikatı və ya xüsusi ekspertizaya görə müəyyən edilir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Barter_əməliyyatları",
+            "title": "Barter əməliyyatları",
+            "description": "Xarici ticarətdə valyutasız mal mübadiləsi sövdələşməsidir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Boşaltma",
+            "title": "Boşaltma",
+            "description": "Gömrük nəzarəti altında nəqliyyat vasitələrindən yüklərin qismən və ya tam boşaldılmasıdır",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Buraxılış",
+            "title": "Buraxılış",
+            "description": "Malların və ya nəqliyyat vasitələrinin gömrük rəsmiləşdirilməsindən sonra gömrük orqanları tərəfindən şəxsin tam sərəncamına verilməsidir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Dempinq",
+            "title": "Dempinq",
+            "description": "Malların digər ölkələrə öz ölkəsindəki qiymətindən (dəyərindən) aşağı qiymətə satışıdır. Dempinq mal, valyuta formasında olmaqla, xarici bazarda rəqabətdə firmaların əsas mübarizə vasitəsidir. Dempinq ixracat firmalarının vəsaiti və dövlət büdcəsi tərəfindən alınmış vəsait hesabına dövlətin köməyi ilə ixracat göndərişlərini biləvasitə subsidiyalaşdırmaqla həyata keçirilə bilər. İstənilən halda aşağı qiymətə satılmış mallar üzrə gəlirdən asılı olan itki, digər malların qiymətinin artırılması və başqa bazarlarda satışı ilə kompensə olunur. QATT tərəfindən 1967-ci ildə beynəlxalq dempinqin əksinə olan məcəllə qəbul olunmuşdur. Bu məcəllədə dempinqin aşkar və təsdiq olunması, habelə onun tətbiqi nəticəsində dəyən zərərin kompensasiya qaydaları şərh olunmuşdur",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Depozit",
+            "title": "Depozit",
+            "description": "Bank və digər kredit idarələrinə saxlanmağa verilmiş pul vəsaiti və cəvahiratdır. Bunlara: -bank müəssisələrinə daxil olan maddi qiymətli əmanətlər (valyutalar, qiymətli kağızlar, cəvahirat); -debitor tərəfindən kreditora verilmək məqsədi ilə məhkəmə idarələrinə keçirilən pul vəsaitləri ya da qiymətli kağızlar; -əmanətçinin banka olan tələblərini təsdiq edən bank kitabçalarındakı qeydlər; -gömrük rüsum və yığımlarının təminatı məqsədi ilə gömrük orqanlarına keçirilən ödənişlər daxildir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Embarqo",
+            "title": "Embarqo",
+            "description": "Dövlət hakimiyyət orqanları tərəfindən ölkəyə hər hansı bir ölkədən malların və valyuta sərvətlərinin idxal və ixracının, su nəqliyyatı vasitələrinin ölkə limanlarına daxil olmasının qadağan olunmaları, habelə beynəlxalq təhlükəsizliyə təhlükə, hədə gətirən dövlətlərə qarşı yönəldilən tədbirlərdir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Fiziki_şəxs",
+            "title": "Fiziki şəxs",
+            "description": "Hüquqi şəxsdən fərqli olaraq vətəndaş hüququnun subyekti olan insandır və kollektiv birlik təşkil edə bilər. Bundan başqa fiziki şəxs dövlətin qanunlarını qəbul edən dövlətin vətəndaşı, habelə vətəndaşlığı olmayan xarici şəxsdir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrük",
+            "title": "Gömrük",
+            "description": "Gömrük - yunanca \"kumerki\" sözündən olub aşağıdakı mənaları bildirir: a) Bir ölkədən digərinə idxal və ixrac olunan mallar və əşyalardan alınan vergini; b) Vergilərin alınmasına, mallar, əşyaların, nəqliyyat vasitələrinin və sərnişinlərin keçirilməsinə nəzarət edən dövlət təşkilatı; c) Ölkənin giriş və çıxış qapısında gömrük nəzarətinin aparıldığı yeri. Ümumiyyətlə, gömrüklər - müvafiq dövlət orqanlarının müəyyən funksiyaları yerinə yetirərkən qanunvericilikdə göstərilən məbləğdə tutulan pul rüsumlarını; -ölkəyə gətirilən və ya ölkədən aparılan mallardan, şeylərdən alınan dövlət rüsumlarını ifadə edir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrük_brokeri_(vasitəçisi)",
+            "title": "Gömrük brokeri (vasitəçisi)",
+            "description": "Ölkənin qanunvericiliyinə əsasən yaradılmış və gömrük orqanları (gömrük komitəsi, departament, baş gömrük idarəsi) tərəfindən gömrük rəsmiləşdirmə əməliyyatlarını, gömrük işi sahəsində digər vasitəçilik funksiyalarını öz hesabına və ya müqavilə üzrə təmsilçi şəxsin tapşırığı əsasında həyata keçirən lisenziya almış hüquqi şəxslərdir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrük_bəyannaməsi",
+            "title": "Gömrük bəyannaməsi",
+            "description": "Gömrük nəzarətini həyata keçirmək məqsədi ilə gömrük orqanlarına yazılı və şifahi surətdə bəyan olunan (bildirilən) məlumatlardır.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrük_işi",
+            "title": "Gömrük işi",
+            "description": "Malların və ya digər əşyaların gömrük sərhədindən keçirilməsi qaydaları, gömrük vergisinə cəlb olunması, nəzarət və gömrük siyasətini həyata keçirən digər vasitələrin məcmusudur. Gömrük işi praktikada bir neçə formada – gömrük orqanları sistemini yaratmaq, hüquqi və tarif tənzimlənməsi, gömrük rəsmiləşdirilməsi, gömrük nəzarəti gömrük qaydalarının pozulması haqqında işin tədqiqi və təhqiqatın təşkili ilə reallaşdırıla bilər.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrük_nəzarəti",
+            "title": "Gömrük nəzarəti",
+            "description": "Fiziki və hüquqi şəxslər tərəfindən yüklərin, nəqliyyat vasitələrinin, valyuta və sərvətlərin idxal və ixracının müəyyən olunmuş qanun və qaydalarla tənzimlənməsi üçün gömrük orqanlarının həyata keçirdiyi lazımi tədbirlərdir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrük_ərazisi",
+            "title": "Gömrük ərazisi",
+            "description": "Azərbaycan Respublikasının quru ərazisindən, daxili sularından, Xəzər dənizinin (gölünün) Azərbaycan Respublikasına mənsub olan bölməsindən (o cümlədən orada yerləşən adalar, süni adalar, qurğular və tikililər) və onların üzərindəki hava məkanından ibarət olan ərazi.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrük_sərhədi",
+            "title": "Gömrük sərhədi",
+            "description": "ölkənin gömrük ərazisinin hüdudları, habelə sərbəst gömrük bölgəsinin və sərbəst anbarların perimetrləridir. Dövlət sərhədinin gömrük sərhədinə uyğunluğu nisbi bölgüdür. Belə ki, siyasi sərhəd ərazilərdən keçən müəyyən xətti zolaqdan, gömrük sərhədi isə idxal və ixrac mallarına, valyuta sərvətlərinə və s. faktiki nəzarəti həyata keçirən, digər tərəfdən isə lazımi hallarda malları gömrük vergilərinə cəlb edən, müxtəlif qayda və qanunlara nəzarət edən gömrük məntəqələri şəbəkəsindən ibarətdir. Digər tərəfdən isə gömrük sərhədi siyasi sərhədə - dövlət sərhədinə uyğun gəlir. Müasir baxımdan gömrük sərhədi ölkənin yalnız tarif sərhədi deyil, habelə valyuta sərhədi, həmin dövlətdə hakim olan sosial - iqtisadi strukturun sərhədidir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrük_statistikası",
+            "title": "Gömrük statistikası",
+            "description": "Xarici iqtisadi əlaqələr sahəsində dövlət statistikasının tərkib hissəsi olub, idxal və ixrac əməliyyatları üzrə dəqiq uçot aparmaqla xarici iqtisadi fəaliyyətə dair statistik məlumatlar toplayır. Gömrük statistikası aşağıdakı funksiyaları həyata keçirir: -ölkənin idxal və ixrac əməliyyatları üzrə dəqiq hesabat aparmaqla, hərtərəfli məlumatla təchizata təminat verilməsi; -makroiqtisadi şəraitə uyğun olaraq ölkəyə xarici ticarət vasitəsilə mal axınının struktur və dinamikasını öyrənmək, əsas iqtisadi meyllərin analiz edilməsi; -informasiya təminatının təchiz edilməsi; -dövlətlərarası ticarət danışıqlarının və operativ kommersiya danışiqlarının aparılmasına dair hazırlıq işlərinin görülməsində iştirak etmək; -daxili bazar konyunkturalarının təhlili; -büdcəyə gömrük tədiyyələrinin",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrük_tarifi",
+            "title": "Gömrük tarifi",
+            "description": "Ölkəyə idxal olunan xarici və ölkədən ixrac olunan milli malların, habelə onlardan alınan rüsumların qruplar üzrə sistemləşdirilmiş külliyyatıdır. Bu mallar mənşə əlamətlərinə (sənaye, bitki, minerallar və s.) və malların emal dərəcələrinə görə (xammal, yarımfabrikat, hazır məmulatlar və s.) qruplar halında sistemləşdirilmişdir. Bu siyahıya malların adları, onlardan rüsumların alınma vahidləri, malların dəyərindən faizlə tutulan, habelə malların miqdar ya da çəki vahidi ölçülərindən alınan rüsum dərəcələri daxildir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrük_tədiyyələri_(ödənişləri)",
+            "title": "Gömrük tədiyyələri (ödənişləri)",
+            "description": "Gömrük rüsumları, vergilər, gömrük yığımları, lisenziya və arayışların verilməsi üçün alınan haqqlar, habelə gömrük orqanları tərəfindən müəyyən olunmuş qaydada alınan digər ödənişlərdir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrükxana_-_tamojnya_(tarixi)",
+            "title": "Gömrükxana - tamojnya (tarixi)",
+            "description": "\"TAMQA\" (bax) sözündən meydana Gəlmiş \"tamjitdir\", yəni mallardan rüsum almaq deməkdir. Həmin mallardan rüsum alınan yer \"tamjil\" - müasir gömrükxana, burada işləyən adamlar isə \"tamojennik\"- sonralar \"gömrükçü\" adlandırılmışdır. Bundan başqa feodal Rusiyasında gömrük rüsumunu ifadə edən \"mıt\" ya da \"mıtnıy sbor\", bu vergi növünün alındığı yer \"mıtnıy dvor\", vergini alan şəxslər isə \"mıtnik\" adlanır ki, bu da müasir - \"gömrükçü\" ifadələrilə xarakterizə olunur. \"Mıt\" anlayışı növ dəyişkənliyilə slavyan mənşəli dillərdə hazırda da işlədilir. Belə ki, ukrayna, belarus və bolqar dillərində \"gömrükxana\" - \"mıtnıtsa\" adlanır.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Gömrük_yığımları",
+            "title": "Gömrük yığımları",
+            "description": "Gömrük orqanları tərəfindən gömrük rəsmiləşdirməsi və xidmət üçün normativ aktlarda nəzərdə tutulmuş, alınacaq pul ödənişləridir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Hüquqi_şəxs",
+            "title": "Hüquqi şəxs",
+            "description": "Xüsusiləşmiş əmlaka malik olan, öz adından əmlak və şəxsi qeyri-hüququna malik olmaq, öhdəliklər daşimaq, məhkəmədə, arbitraj və ya münsiflər məhkəməsində iddiaçı və cavabdeh səlahiyyətinə malik təşkilat, müəssisə və idarələrdir. Hüquqi şəxs vətəndaş - hüququnun subyektidir. Hüquqi şəxslər aşağıdakı əlamətlərə malikdirlər: -nizamnamə (əsasnamə) üzrə təşkiletmə səlahiyyətlərini, quruluşunu, məqsəd və vəzifələrini, təyinat və ya seçkili orqanlara seçki qaydalarını və s. müəyyən etmək; -xüsusiləşmiş mülkə (xüsusilik, tam təsərrüfat hesabına keçmə ya da operativ idarəetmə hüququna və s.) malik olmaq; -vətəndaşlıq dövriyyəsində sövdələşmələrin həyata keçirilməsi və digər hərəkətlərdə vətəndaş hüququ və öhdəliklərindən istifadə etmək, habelə arbitraj və məhkəmələrdə özünü müdafiə etmək",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "İdentifləşdirmə",
+            "title": "İdentifləşdirmə",
+            "description": "Nəzarət obyektinin öz obrazına -surətinə, nümunəsinə uyğunluğunun eyniliyinin müəyyən olunmasıdır.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "İdentifləşdirmə_işarələri_(eyniləşdirmə_vasitələri)",
+            "title": "İdentifləşdirmə işarələri (eyniləşdirmə vasitələri)",
+            "description": "Gömrük orqanları tərəfindən yükləri, əşyaları və nəqliyyat vasitələrini gömrük baxımından yenidən tanımaq məqsədi ilə onlar tərəfindən müəyyən üsulla istifadə olunan adlar və ya işarələrdir. Eyniləşdirmə işarələri kimi tikili və yük yerlərinin təminatı üçün müxtəlif plomblar, möhürlər, ştempel izləri, təsvirlər, şəkillər və s. tətbiq olunur.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "İdxal",
+            "title": "İdxal",
+            "description": "Xarici ölkələrdən gətirilmiş malların (işlərin, xidmətlərin) və kapitalın idxalat ölkələrinin daxili bazarlarında reallaşdırılması (satışı, mübadiləsi) üçün nəzərdə tutulmuş hərəkətdir. Onun xüsusi növü təkrar idxaldır.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "İdxal_vergiləri",
+            "title": "İdxal vergiləri",
+            "description": "Xarici mənşəli malların idxalı zamanı gömrük orqanları tərəfindən alınan yığımlar və rüsumlardır. İdxal rüsumları xalq təsərrüfatı sahələrini xarici ölkələrin rəqabətindən qorumaq - xarici mənşəli malların daxili bazara buraxılmasının qarşısını almaq və çətinləşdirmək üçün tətbiq olunur (bax: xüsusi, antidempinq rüsumları və s.).",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "İqtisadi_siyasət",
+            "title": "İqtisadi siyasət",
+            "description": "Müəyyən strateji məqsədə nail olmağa təminat verən iqtisadi inkişaf məsələlərinin başlıca və əsas istiqamətlərinin məcmuudur. İqtisadi siyasət ali dövlət və idarəetmə orqanları tərəfindən qəbul olunan qanunlar, qərarlar və digər sənədlərlə tənzim olunaraq möhkəmləndirilir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "İrsi_əmlak",
+            "title": "İrsi əmlak",
+            "description": "Xaricdə və ya ölkə daxilində irsili tərkibi olan və gömrük sərhədindən keçirilən əşyalardır.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "İxrac",
+            "title": "İxrac",
+            "description": "Malların (məhsulların, işlərin, xidmətlərin və s.) xarici bazarda reallaşdırılması (satılması, mübadiləsi) üçün xaricə aparılmasıdır. İxracın xüsusi növü təkrar ixracdır. Bu növ ixrac zamanı əvvəllər xaricdən idxal olunmuş mallar, o cümlədən beynəlxalq auksionlarda, birjalarda və s. satılmamış mallar heç bir emala məruz qalmadan ixrac olunur.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Keyfiyyət_sertifikatı",
+            "title": "Keyfiyyət sertifikatı",
+            "description": "Göndərilən malların keyfiyyətini xarakterizə edən təsdiqedici sənəddir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Nizamnamə",
+            "title": "Nizamnamə",
+            "description": "Müəssisə, təşkilat və idarələrin strukturu, funksiyaları və hüquqlarını təsvir edən hüquqi aktdır.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Qablaşdırma_vasitəsi_(qab)",
+            "title": "Qablaşdırma vasitəsi (qab)",
+            "description": "Mallarla birlikdə istehlakçıya satılan ilkin daxili qablaşdırma vasitələridir ki, ticarət dövriyyəsində bilavasitə qablardan (məs: kibrit qutusu, papiros qutusu, ətir flakonu və s.) ayırmaq mümkün deyildir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Qaçaqmalçılıq",
+            "title": "Qaçaqmalçılıq",
+            "description": "İtalyanca \"contrabando\" - sözündən olub, idxal və ixrac əməliyyatlarında hökumət fərmanına zidd olan hərəkətlər mənasını verir. Bu qeyri-qanuni yolla dövlət sərhəddindən yüklərin (malların, sərvətlərin və s. əşyaların) keçirilməsi ya da müvafiq ölkənin hüquq normalarına uyğun olaraq gömrük-valyuta tənzimlənməsi üçün nəzərdə tutulduğu sanksiyalara (qadağanlara) qarşı yönəldilmiş hərəkətlərdir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Qapalı_valyuta",
+            "title": "Qapalı valyuta",
+            "description": "Yalnız bir ölkə daxilində tətbiq olunan və digər xarici valyutalara mübadilə olunmayan milli valyutadır. Qapalı valyutaya milli və xarici valyutaların mübadiləsi, alqı-satqısı idxal və ixracı üzrə müxtəlif məhdudiyyətlər qoyulmuş ölkələrin valyutaları aiddir. Qapalı valyutaya inkişaf etməkdə olan bir çox ölkələrin valyutaları da daxildir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Qeyri-rezidentlər",
+            "title": "Qeyri-rezidentlər",
+            "description": "a) ölkə hüdudlarından kənarda daim yaşayış yeri olan, o cümlədən Azərbaycanda müvəqqəti qalan fiziki şəxslərdir; b) ölkə hüdudlarından kənarda yerləşən, xarici dövlətin qanunvericiliyinə uyğun olaraq yaradılan hüquqi şəxslərdir; c) ölkə hüdudlarından kənarda yerləşən, xarici dövlətin qanunvericiliyinə uyğun olaraq yaradılan, lakin hüquqi şəxs olmayan müəssisə və təşkilatlardır; ç) ölkə ərazisində yerləşdirilən diplomatik və digər rəsmi nümayəndəliklər, habelə beynəlxaq təşkilatlar, onların firma və nümayəndəlikləridir; d) \"b\" və \"c\" bəndində göstərilən qeyri-rezidentlərin ölkə ərazisində yerləşdirilən firmaları və nümayəndəlikləridir",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Spesifik_rüsum",
+            "title": "Spesifik rüsum",
+            "description": "Mal vahidinə görə müəyyən olunmuş məbləğdə hesablanan rüsum dərəcəsidir. Bu hər bir maldan- onun çəki, həcm vahidlərindən, ya da hər bir mal vahidindən milli və ya xarici valyuta ilə alınan rüsumdur.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Sərbəst_tədavül",
+            "title": "Sərbəst tədavül",
+            "description": "Gömrük sərhədindən buraxılmış gömrük nəzarəti sərəncamında olmayan ölkənin gömrük ərazisi və ya bu ərazini hüdudlarından kənarda olan mallar ya da digər əşyalardır.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Şəxs",
+            "title": "Şəxs",
+            "description": "Hüquq və öhdəliklərin daşiyicisi olan vətəndaş hüququnun subyektidir. Vətəndaş hüququnun subyekti insan (bax: fiziki şəxs) və müəssisə, idarə və təşkilat (bax: hüquqi şəxs) ola bilər.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Tamqa_(tarixi)",
+            "title": "Tamqa (tarixi)",
+            "description": "Qədim dünyada yarmarkalar və bazarlarda ticarət zamanı alınan rüsumların adıdır. Türkcə \"tamqa\" - işarə, damğa mənasını verir. O dövrdə əşyaların aidiyyatını müəyyən etmək məqsədi ilə onların üzərinə vurulurdu. Malların uzərinə vurulan damğa (nişan) və ya kağız yarlıq - \"xan yarlığı\" adlanaraq yığımla (pul vəsaiti) müşaiyət olunurdu. Sonralar Rusiyada bu \"tamqa\" adlandırılmış və rüsumu xarakterizə etmişdir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Tara",
+            "title": "Tara",
+            "description": "Malların xarici qablaşdırma (məs: yeşik, çəllək, kisə, konteyner, karton yeşiklər və s.) vasitələridir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Tranzit_dövləti",
+            "title": "Tranzit dövləti",
+            "description": "Ərazisi ilə göndərən dövlətdən tranzitlə təyinat dövlətinə yüklərin (malların və digər əşyaların) daşındığı istənilən dövlətdir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Tranzit_yüklər",
+            "title": "Tranzit yüklər",
+            "description": "Bir ölkənin ərazisindən digərinə üçüncü ölkənin ərazisindən keçməklə daşınan yüklərdir.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Valyuta",
+            "title": "Valyuta",
+            "description": "Dövriyyədə olan, habelə dövriyyədən çıxarılmış ya da çıxarılmaqda olan, lakin mərkəzi və ya milli banklarda dəyişdirilə bilən bank biletləri (banknot), habelə sikkələrdir; b) ölkənin pul vahidi: manat, rubl, dollar və s; c) xarici iqtisadi fəaliyyətdə - beynəlxalq hesablaşmalarda istifadə olunan xarici valyuta, kağız pullar, çeklər, digər xarici pul vahidi ilə olan ödəniş və kredit sənədləri; ç) pul sisteminin tipi (qızıl, gümüş, kağız valyuta)",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Valyuta_məzənnəsi",
+            "title": "Valyuta məzənnəsi",
+            "description": "Bir ölkənin pul vahidi qiymətinin digər ölkənin pul vahidi ilə ifadəsidir. Valyuta məzənnəsinin təyini qiymət təyinnetmə (qiymətlənmə) adlanır. Manatın məzənnəsi mütləq xarakter daşıyır. Bu məzənnə: a) xarici valyutaya malik olan nazirlik, idarə və təşkilatlar arasında hesablaşmaların aparılmasında; b) milli bankda idxal-ixrac əməliyyatlarının həyata keçirilməsində; c) valyutaların vətəndaşlarla mübadiləsində; ç) respublikaya gələn fərdi və vəzifəli şəxslərdən xarici valyutanın alınmasında; d) xarici valyutanın ölkə vətəndaşlarına satışında; e) onların uçot və hesabatının aparılmasında; ə) ödəniş balansının tərtibində tətbiq olunur.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Valyutasız_mübadilə",
+            "title": "Valyutasız mübadilə",
+            "description": "Malların, xidmətlərin, elmi nəticələrin, mədəni fəaliyyətin xarici və milli valyuta sərf edilmədən beynəlxalq mübadilə üsuludur.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "XİZ",
+            "title": "XİZ",
+            "description": "Sahibkarlıq fəaliyyətinin həyata keçirilməsi üçün xüsusi hüquqi rejimin tətbiq edildiyi Azərbaycan Respublikası ərazisinin məhdud hissəsi.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "XİZ-in_administrasiyası",
+            "title": "XİZ-in administrasiyası",
+            "description": "XİZ-in fəaliyyət müddətində onun ərazisində yaradılan səlahiyyətli orqanın yerli qurumu.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "XİZ-in_operatoru",
+            "title": "XİZ-in operatoru",
+            "description": "İdarəetmə sazişi çərçivəsində XİZ-in idarə olunması və inkişaf etdirilməsinə cavabdehlik daşıyan, bu sahədə böyük təcrübəyə malik olan şirkət.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "XİZ-in_rezidentləri",
+            "title": "XİZ-in rezidentləri",
+            "description": "Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq dövlət qeydiyyatına alınmış, XİZ ərazisində sahibkarlıq fəaliyyəti ilə məşğul olmaq üçün \"Xüsusi iqtisadi zonalar haqqında\" Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada XİZ-in qeydiyyat şəhadətnaməsini almış hüquqi və fiziki şəxslər.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Əmlak",
+            "title": "Əmlak",
+            "description": "Xarici ticarətin alqı-satqı ya da barter (mübadilə) obyekti olmayan müəssisə, birlik və təşkilatların dövlət ya da gömrük sərhədindən keçirilən əşyalarıdır.",
+            "date": "2023-12-20T08:47:43.656Z",
+            "relatedTerms": [],
+            "tags": []
+        }
+    ]
+}

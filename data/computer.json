@@ -1,0 +1,407 @@
+{
+    "meta": [
+        {
+            "title": "Kompüter terminləri",
+            "description": "Azərbaycanca izahlı kompüter terminləri lüğəti",
+            "sources": [
+                {
+                    "url": "https://achiqkitab.aztc.gov.az/az/file/view/ingilisce-azerbaycanca-izahli-komputer-terminleri-lugetienglish-azerbaijani-explanatory-dictionary-of-computer-terms.pdf",
+                    "title": "Ingiliscə-Azərbaycanca izahlı kompüter terminləri lüğəti (achiqkitab.aztc.gov.az)"
+                }
+            ]
+        }
+    ],
+    "tags": [
+        {
+            "title": "DVD",
+            "description": "(Digital Video Disk)"
+        }
+    ],
+    "terms": [
+        {
+            "id": "Abort",
+            "title": "Abort",
+            "description": "(Abortus sözündən) —Proqramın bu və ya digər əməliyyatının qəza vəziyyətində yarımçıq kəsilməsi.",
+            "date": "2023-12-27T20:52:51.968Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "API",
+            "title": "API",
+            "description": "(Application Programming Interface) — Tətbiqi proqramlaşdırma interfeysi. Standart proqram kəsilmələri toplusu, prosedur (metod) çağırışı. Əməliyyat sistemindən gələn məlumatların formatı. API nümunəsi olaraq SVID və NetBIOS-u göstərmək olar.",
+            "date": "2023-12-27T20:56:06.556Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "ARPANET",
+            "title": "ARPANET",
+            "description": "(Advanced Research Projects Agency Network) — ABŞ hərbi xidməti tərəfindən yaradılmış ilk kompüter şəbəkəsi.",
+            "date": "2023-12-27T20:58:39.284Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "ASCII",
+            "title": "ASCII",
+            "description": "(American Standard Code for Information Interchange) — İnformasiya mübadiləsi üzrə Amerika Beynəlxalq Standart Kod Sistemi. Müəyyən bayt yüklü simvolun (çap işarəsinin) qiymətiHəmçinin bax: Byte",
+            "date": "2023-12-27T21:13:02.835Z",
+            "relatedTerms": [
+                {
+                    "id": "Byte",
+                    "title": "Byte"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Backup",
+            "title": "Backup",
+            "description": "Məlumatların ehtiyat sürətlərinin çıxarılması. Faylın, sistemin, diskin ehtiyat sürətinin çıxarılması. Məlumatlar (verilənlər) bazasını xarab olmamışdan əvvəlki vəziyyətinə gətirmə.",
+            "date": "2023-12-27T21:14:18.961Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "BIOS_(Basic_Input_Output_System)",
+            "title": "BIOS (Basic Input Output System)",
+            "description": "Giriş-çıxışın baza sistemi. Ana platada kompüterin konfiqurasiyası yazılmış kiçik mikrosxem. BlOS-un parametrlərini dəyişdirmək mümkündür. «BIOS» həm mikrosxemə, həm də ona yazılmış proqram təminatına deyilir.",
+            "date": "2023-12-27T21:19:04.531Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Bit",
+            "title": "Bit",
+            "description": "(Binary Digit) — Kompüter informasiyasının ən kiçik vahidi - bit. Məntiqi «bəli» və ya «xeyr». Adi hallarda, başqa, daha böyük vahid - bayt termini işlədilir. İkilik simvol (qiymət), 0 və ya 1. Hesablama texnikasında informasiyanın maşın təsəvvüründə verilməsi üçün istifadə olunur. Kompüter qrafikində rəng sıxlığı (dərinliyi) vahidini bildirir. Pikseldə bir bit ştrixli ağqara təsvir kimi kodlaşdırılır, pikseldə 8 bit — artıq boz qradasiyanı göstərir, 24 bitlik piksel isə rəngdə 16,7 milyon çaları göstərir. Təxmin edilir ki, termini Claude Shannon (Klod Şcnnon) 1940-cı ildə və ya John Tukey (Con Tcki) 1946-cı ildə kəşf edib.Həmçinin bax: Byte",
+            "date": "2023-12-27T21:17:44.270Z",
+            "relatedTerms": [
+                {
+                    "id": "Byte",
+                    "title": "Byte"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Bootstrap",
+            "title": "Bootstrap",
+            "description": "Öz özünə yüklənən proqram",
+            "date": "2023-12-27T21:20:35.283Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Byte",
+            "title": "Byte",
+            "description": "Byte (bayt kimi tələffüz olunur) informasiya vahididir. «Bit» kimi tələmiz olunmur! Bayt, 8 bitdən ibarətdir. Bit daha çox məntiqi 1 və ya 0 (bəli və ya xeyr) anlamda İşlədilir. Baytla isə (8 bitlə) hər hansı çap işarəsini, hərfi və ya rəqəmi ifadə etmək olar. Proqramın həcmi baytlarla, kilobaytlarla (1024 bayt), meqabaytlarla (1024 kilobayt, Kb) və həmçinin geqabaytlarla (1024 meqabayt, Mb) göstərilir",
+            "date": "2023-12-27T21:11:38.708Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Cache",
+            "title": "Cache",
+            "description": "Keş-yaddaş. Nisbətən yavaş yaddaşa daha tez və asan müraciət etmək üçün yaradılır. Məsələn, operativ yaddaşda keş üçün xüsusi sahə ayrılır və oraya ən çox işlədilən məlumatlar qoyulur. Adətən kompüter başlanğıcda keşə müraciət edir, sonra sərt diskə. Aparat keşi - xüsusi mikrosxemlər şəklində prosessorlarda, sərt disklərdə və CD (DVD) disk oxudanlarda (çaldırıcılarda) olur. Bəzən operativ yaddaş çatmayanda Windows-un yaratdığı disk məkanını da keş adlandırırlar, amma bu keş sistemi sürətləndirmir, yavaşıdır. İnternetdən proqram-brouzcrin çəkdiyi fayllar saxlanan qovluğa da keş deyirlər.",
+            "date": "2023-12-27T21:23:45.079Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "CD_(Compact_Disk)",
+            "title": "CD (Compact Disk)",
+            "description": "Kompakt-disk. İnformasiyanı optika vasitəsilə oxunan plastik disklər. Philips və Sony kompaniyaları tərəfindən musiqi əsərlərinin saxlanması üçün 80-ci illərdə işlənib hazırlanmışdı. 90-cı illərin əvvəllərindən başlayaraq fərdi kompüterlər üçün informasiya daşıyıcısı oldu",
+            "date": "2023-12-27T21:25:37.312Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "CD-R_(Compact_DiskRecordable)",
+            "title": "CD-R (Compact DiskRecordable)",
+            "description": "Kompaktdisk və onun oxuducusunun standartı. Tək oxumaq deyil, həmdə məlumatları bir dəfə CD-yə yazmağa imkan verir. CD-R diskləri CDROM - yəni hər hansı bir disk oxuducusu (sürücü də deyirlər) oxuda bilər. Yazmağı isə xüsusi diskoxuducuları olan CDRW və DVD- RW-lər bacarır.Həmçinin bax: CD (Compact Disk), CD-RW (Compact Disk ReWritable), DVD+RW(DVD+ReWritable)",
+            "date": "2023-12-27T21:48:37.860Z",
+            "relatedTerms": [
+                {
+                    "id": "CD_(Compact_Disk)",
+                    "title": "CD (Compact Disk)"
+                },
+                {
+                    "id": "CD-RW_(Compact_Disk_ReWritable)",
+                    "title": "CD-RW (Compact Disk ReWritable)"
+                },
+                {
+                    "id": "DVD+RW(DVD+ReWritable)",
+                    "title": "DVD+RW(DVD+ReWritable)"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "CD-ROM_(Compact_Disk_Read_Only_Memory)",
+            "title": "CD-ROM (Compact Disk Read Only Memory)",
+            "description": "Lazer kompakt disklərdə saxlanan «ancaq oxumaq üçün» tipli məlumatlar. Bu termin 700 MB-lıq kompakt diskin özünə və diskoxuducusuna aiddir.Həmçinin bax: CD (Compact Disk)",
+            "date": "2023-12-27T21:27:39.877Z",
+            "relatedTerms": [
+                {
+                    "id": "CD_(Compact_Disk)",
+                    "title": "CD (Compact Disk)"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "CD-RW_(Compact_Disk_ReWritable)",
+            "title": "CD-RW (Compact Disk ReWritable)",
+            "description": "Kompakt-disk və diskoxuducusu standartı. Həm CD-nin oxumasına, həm də məlumatların CD-yə çoxdəfəli yazılmasına imkan verir.Həmçinin bax: CD (Compact Disk)",
+            "date": "2023-12-27T21:26:51.478Z",
+            "relatedTerms": [
+                {
+                    "id": "CD_(Compact_Disk)",
+                    "title": "CD (Compact Disk)"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Clipboard",
+            "title": "Clipboard",
+            "description": "Mübadilə buferi, başqa sözlə cib də adlanır. Buraya hər hansı obyekti əvvəl gizlətmək (copy və ya eut) sonra başqa yerə təzədən qoymaq (paste) olar. Windows-un mübadilə buferinə mətnin də bir hissəsini, hətta bütöv bir faylı da yerləşdirmək mümkündür.",
+            "date": "2023-12-27T21:49:48.162Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Collision",
+            "title": "Collision",
+            "description": "«Toqquşma», konflikt, kolliziya. Yerli şəbəkənin iki bəndinin eyni zamanda eyni kanalla paket göndərmək cəhdi",
+            "date": "2023-12-27T21:51:34.455Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Compiler",
+            "title": "Compiler",
+            "description": "Kompilyator, proqram translyatoru, proqramın əzəli mətnini proqramlaşdırma dilindən ekvivalent məqsədyönlü dilli (target language) proqrama translyasiya edən. Adətən maşın kodu.",
+            "date": "2023-12-27T21:52:55.309Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Craslı",
+            "title": "Craslı",
+            "description": "Çökmə, sıradançıxma. Aradan qaldırıla bilməyən sistem xətası. Kompüterin işini dayandırır və ya onun «asılması»na gətirib çıxarır.",
+            "date": "2023-12-27T21:55:50.250Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Crawler",
+            "title": "Crawler",
+            "description": "Axtarış agenti, «iməkləyən». «Hörümçək», «qurd», «soxulcan» - webdə proqram axtarış mexanizmi, avtomatik o sənədləri toplayır ki, həmin sənədlərdə, birinci sənədə dair sitatlar vardır.",
+            "date": "2023-12-27T21:54:33.851Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Debug,_Debugging",
+            "title": "Debug, Debugging",
+            "description": "Xətanı tapmaq üçün proqramın başlanğıc kodunun yoxlanılması. Xətaların aradan götürülməsi, sazlama.",
+            "date": "2023-12-27T21:57:49.545Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Decoder",
+            "title": "Decoder",
+            "description": "Dekoder, deşifrə qurğusu, mikrosxem deşifrə qurğusu. Giriş siqnalını bir neçə çıxış siqnalına çevirir və məlumatları başqa şəklə salır",
+            "date": "2023-12-27T21:58:46.951Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Defer",
+            "title": "Defer",
+            "description": "Kənaraqoyma,yubatma.",
+            "date": "2023-12-27T21:59:45.079Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "DLL_(Dynamic_Link_Library)",
+            "title": "DLL (Dynamic Link Library)",
+            "description": "Microsoft Windows proqramlarında - «dinamik qoşulan kitabxana». Proqram modullarının xüsusi növüdür. Bir çox proqramlar tərəfindən istifadə olunur (həmçinin birgə proqramlar tərəfindən).",
+            "date": "2023-12-27T22:01:45.893Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "DOS_(Disk_Operating_System)",
+            "title": "DOS (Disk Operating System)",
+            "description": "Fərdi kompüterlərin seriya əməliyyat sistemi. Microsoft Windows-un meydana gəlməsi ilə praktiki olaraq sıradan çıxdı",
+            "date": "2023-12-27T22:03:19.683Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Driver",
+            "title": "Driver",
+            "description": "Drayver- vasitəçi proqramların xüsusi növü. Əməliyyat sisteminə bu və ya başqa konkret qurğu ilə işləməyə imkan verən proqramlar. Universal drayverlər də vardır.",
+            "date": "2023-12-27T22:07:31.321Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "DVD-audio",
+            "title": "DVD-audio",
+            "description": "DVD Bu formatlı audio diskləri Nero 6.6 və daha yüksək versiyalı proqramlar vasitəsilə WAV fayllarmdan, Stereo Audio CD və ya Digital Audio fayllardan yaratmaq olur.Həmçinin bax: CD (Compact Disk), DVD (Digital Video Disk)",
+            "date": "2023-12-27T21:38:42.531Z",
+            "relatedTerms": [
+                {
+                    "id": "CD_(Compact_Disk)",
+                    "title": "CD (Compact Disk)"
+                },
+                {
+                    "id": "DVD_(Digital_Video_Disk)",
+                    "title": "DVD (Digital Video Disk)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "DVD"
+                }
+            ]
+        },
+        {
+            "id": "DVD-D_(DVD_Disposable)",
+            "title": "DVD-D (DVD Disposable)",
+            "description": "DVD Özü-özünü məhv edən DVD, birdəfəlik [video]disklər. Prokat nöqtələr üçün nəzərdə tutulub və adi DVD kimi polikarbonatlardan hazırlanıb, ancaq üzərindəki bir lay qabından çıxaran kimi oksigenlə reaksiya verir və 9-24 saat ərzində məhv olur.Həmçinin bax: DVD (Digital Video Disk)",
+            "date": "2023-12-27T21:39:42.410Z",
+            "relatedTerms": [
+                {
+                    "id": "DVD_(Digital_Video_Disk)",
+                    "title": "DVD (Digital Video Disk)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "DVD"
+                }
+            ]
+        },
+        {
+            "id": "DVD_(Digital_Video_Disk)",
+            "title": "DVD (Digital Video Disk)",
+            "description": "DVD DVD-nin əsasən üç anlamı var: DVD video, DVD-disk və DVD-format. DVD 90-cı illərin sonlarında geniş tətbiq olunmağa başladı. Bir çox dünya şöhrətli korporasiyalar DVD-nin müxtəlifdisk formatlarını tətbiq etməyə başladı. Bunlardan çoxu zaman keçdikcə populyarlığını itirərək, istehsaldan çıxarıldıHəmçinin bax: DV (Digital Video)",
+            "date": "2023-12-27T21:36:00.147Z",
+            "relatedTerms": [
+                {
+                    "id": "DV_(Digital_Video)",
+                    "title": "DV (Digital Video)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "DVD"
+                }
+            ]
+        },
+        {
+            "id": "DVD-E",
+            "title": "DVD-E",
+            "description": "DVD 2.95 Gb-lıq «silinə bilən» DVD-lərdir. Geniş tətbiq sahəsi tapmayıb.Həmçinin bax: DVD (Digital Video Disk)",
+            "date": "2023-12-27T21:40:58.842Z",
+            "relatedTerms": [
+                {
+                    "id": "DVD_(Digital_Video_Disk)",
+                    "title": "DVD (Digital Video Disk)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "DVD"
+                }
+            ]
+        },
+        {
+            "id": "DV_(Digital_Video)",
+            "title": "DV (Digital Video)",
+            "description": "DVD DV format kassetli miniDV kameraların videoyazı formatıdır. Video görüntüləri sıxmaq üçün DV kodeklərdən istifadə olunur. Yazılış keyfiyyətinə görə DV format DVD və MPEG4-dən keyfiyyətli format sayılır. DV formatlı video adətən üzərində işlənmədən (sıxılmadan) nümayiş etdirilmir (1995-ci ildə Sony və JVC tərəfindən işlənib hazırlanıb).",
+            "date": "2023-12-27T21:35:43.659Z",
+            "relatedTerms": [],
+            "tags": [
+                {
+                    "title": "DVD"
+                }
+            ]
+        },
+        {
+            "id": "DVD-R",
+            "title": "DVD-R",
+            "description": "DVD 4.7 Gb birtərəfli, 9.4 Gb ikitərəfli birdəfəlik yazılan DVD disklərdir. Adətən filmlərin saxlanması üçün nəzərdə tutulub. Digər formatlara nisbətən ən çox tətbiq olunan DVD formatıdır.Həmçinin bax: DVD (Digital Video Disk)",
+            "date": "2023-12-27T21:41:51.378Z",
+            "relatedTerms": [
+                {
+                    "id": "DVD_(Digital_Video_Disk)",
+                    "title": "DVD (Digital Video Disk)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "DVD"
+                }
+            ]
+        },
+        {
+            "id": "DVD-ROM",
+            "title": "DVD-ROM",
+            "description": "DVD Kompüterlərdə daimi yaddaş üçün istifadə olunan DVD format.Həmçinin bax: DVD (Digital Video Disk)",
+            "date": "2023-12-27T21:42:59.642Z",
+            "relatedTerms": [
+                {
+                    "id": "DVD_(Digital_Video_Disk)",
+                    "title": "DVD (Digital Video Disk)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "DVD"
+                }
+            ]
+        },
+        {
+            "id": "DVD+RW(DVD+ReWritable)",
+            "title": "DVD+RW(DVD+ReWritable)",
+            "description": "DVD Yazılıb pozulan disklər az - 3 Gb tutumlu olduğundan geniş yayılmadı. Qeyd edək ki, bu format Hewlett-Packard, Philips və Sony korporasiyaları tərəfindən işlənib hazırlanmışdıHəmçinin bax: DVD (Digital Video Disk)",
+            "date": "2023-12-27T21:37:22.762Z",
+            "relatedTerms": [
+                {
+                    "id": "DVD_(Digital_Video_Disk)",
+                    "title": "DVD (Digital Video Disk)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "DVD"
+                }
+            ]
+        },
+        {
+            "id": "DVD-Video",
+            "title": "DVD-Video",
+            "description": "DVD DVD-video MPEG2 formatında sıxılmış, Dolby Digital formatında səsi olan videodur. Kinopiratçılığın qarşısını almaq üçün hər bir DVD diskdə onun regional kodu göstərilməlidir. DVD Playerlər DVD diskləri region kodundan asılı olaraq oxudur. Ümumiyyətlə, dünyada 6 region vardır: ABŞ - 1-ci, Avropa - 2-ci, Rusiya və MDB ölkələri5-cidir. DVD formatda səslər VOB formatında AC3/6 (6 kanallı səs) və ya AC3/8 (səkkizkanallı teatral səsli) olur.Həmçinin bax: DVD (Digital Video Disk)",
+            "date": "2023-12-27T21:45:05.482Z",
+            "relatedTerms": [
+                {
+                    "id": "DVD_(Digital_Video_Disk)",
+                    "title": "DVD (Digital Video Disk)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "DVD"
+                }
+            ]
+        }
+    ]
+}

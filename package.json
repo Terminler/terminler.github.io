@@ -1,0 +1,16 @@
+{
+  "name": "glossary",
+  "version": "1.0.0",
+  "description": "glossary",
+  "main": "src/index.js",
+  "scripts": {
+    "serve": "node --env-file=.env src/index.js",
+    "export": "node --env-file=.env src/export.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farid Babayev",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

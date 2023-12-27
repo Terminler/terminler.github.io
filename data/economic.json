@@ -1,0 +1,1417 @@
+{
+    "meta": [
+        {
+            "title": "İqtisadi terminlər",
+            "description": "İqtisadi terminlər lüğəti",
+            "sources": [
+                {
+                    "url": "https://www.taxes.gov.az/az/page/iqtisadi-terminler-lugeti",
+                    "title": "Mənbə"
+                }
+            ]
+        }
+    ],
+    "tags": [],
+    "terms": [
+        {
+            "id": "autsayder",
+            "title": "Autsayder",
+            "description": "Müəyyən mülahizələrə, səbəblərə görə inhisar birliklərinə daxil olmayan müəssisələr.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "atribut",
+            "title": "Atribut",
+            "description": "Hadisələrin, proseslərin, sistemlərin mütləq mənalı ayrılmaz xassəsi. Bunsuz hadisələrin, sistemlərin özləri mövcud ola bilməzlər.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "audit",
+            "title": "Audit",
+            "description": "İdarəçilik fəaliyyətinin müəyyən meyarlara, norma və standartlara uyğun gəlməsini qiymətləndirmə prosesi və sistemi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "assosiasiyalar və ittifaqlar",
+            "title": "Assosiasiyalar və ittifaqlar",
+            "description": "Sahibkarlıq fəaliyyətlərini əlaqələndirmək və birgə əmlak münasibətlərini tənzimləmək məqsədilə kommersiya təşkilatlarının müqavilə əsasında birləşməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "absentizm",
+            "title": "Absentizm",
+            "description": "Hüquqi normalara, o cümlədən əmək qanunçuluğuna məhəl qoymadan, heç bir üzürlü səbəb olmadan işə çıxmama.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "açıq sistem",
+            "title": "Açıq sistem",
+            "description": "Xarici mühitlə əlaqəsi (informasiya, iqtisadi və s.) olan sistem. Belə əlaqə həmin sistemin, o cümlədən təşkilatların səmərəli fəaliyyətinin mühüm şərtidir. İqtisadi və sosial sistemlər açıq sistemlərdir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "additivlik və qeyri-additivlik",
+            "title": "Additivlik və qeyri-additivlik",
+            "description": "Sistemin hissələri və tamlığı arasındakı əlaqə, nisbət. Additivlik sistemin, obyektin hissələrinin məcmusundan ibarət olmasıdır. Lakin elə ünsürlər var ki, onlar həmin sistemin xassələrinə uyğun gəlmir, ona görə də qeyri-additivlik təşkil edir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "akselerator",
+            "title": "Akselerator",
+            "description": "İnvestisiya həcmi və dinamikasının istehlak mallarına olan tələbatdan asılı olmasını şərtləndirən iqtisadi model.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "aksiz",
+            "title": "Aksiz",
+            "description": "Latınca \"accido\", fransızca \"accise\" - \"kəsirəm\" deməkdir, bəzi istehlak mallarına və xidmətlərə qoyulan dolayı vergi; əmtəənin qiymətinə və ya xidmət tarifinə əlavə edilir və beləliklə, istehlakçılar tərəfindən ödənilir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "akt",
+            "title": "Akt",
+            "description": "Latınca \"actus\" - \"hərəkət\", \"actum\" - \"sənəd\" deməkdir; iş, hərəkət, hadisə, qərar, hökm və bir hadisəni təsdiq edən sənəd mənalarında işlədilən çoxmənalı sözdür.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "aktivlər",
+            "title": "Aktivlər",
+            "description": "Keçmiş dövrə aid olan fəaliyyət nəticəsində yaranmış, müəssisənin nəzarətində olan və gələcəkdə iqtisadi mənfəət gözlənilən resurslar.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "aliment",
+            "title": "Aliment",
+            "description": "Latınca \"yemək\", \"qidalanma\" deməkdir; aralarında olan izdivac və ya qohumluq əlaqələrinə görə bir şəxsin digər şəxsə qanuna uyğun olaraq verməli olduğu dolanacaq xərci mənasında işlədilir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "alqoritm",
+            "title": "Alqoritm",
+            "description": "Fəaliyyət ardıcıllığının, məsələn, texniki sistemlərdə maşın əməliyyatlarının ardıcıllığının dəqiq təsviri.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "alternativ",
+            "title": "Alternativ",
+            "description": "Bir-birinin əksinə olan imkan və qərarlar içərisində yeni bir variantın seçilməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "analoq, analogiya",
+            "title": "Analoq, analogiya",
+            "description": "Hər hansı prosesi, qanunauyğunluğu adekvat halda əks etdirən anlayış, nəzəriyyə və tədqiqat üsulu.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "aprobasiya",
+            "title": "Aprobasiya",
+            "description": "Ayrı-ayrı nəzəri müddəaların, iqtisadi modellərin real həyatda, praktikada yoxlanılması, sınaqdan çıxarılması.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "arbitraj (iqtisadi məhkəmə)",
+            "title": "Arbitraj (iqtisadi məhkəmə)",
+            "description": "İqtisadi mübahisələri (müqavilə şərtlərinin pozulması, mülkiyyət hüququnun tanınması, zərərin ödənilməsi, bəzi dövlət aktlarının qanunsuzluğunun aşkar edilməsi, iflasa uğrama ilə bağlı məsələlər və s.) və digər təsərrüfat problemlərini araşdıran məhkəmə orqanı.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "aval",
+            "title": "Aval",
+            "description": "Veksel zaminlik kağızı, bank təlimatı. Burada avalist veksel sahibi qarşısında vekseldən irəli gələn bütün öhdəlikləri öz üzərinə götürür.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "avtomatlaşdırılmış idarəetmə sistemi",
+            "title": "Avtomatlaşdırılmış idarəetmə sistemi",
+            "description": "Kompleks texniki vasitələrdən istifadə əsasında uçot, idarəetmə və müxtəlif hesablamalar məqsədilə informasiyaların toplanmasını, işlənib hazırlanmasını (emalını), saxlanması və verilməsini təmin edən isarəetmə sistemi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "avuar",
+            "title": "Avuar",
+            "description": "Xarici banka saxlanılmaq üçün qoyulmuş qiymətli kağız və qızıl, bir sözlə, hər hansı bir ölkə bankının xarici bankdakı valyuta vəsaiti.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "azad iqtisadi zona",
+            "title": "Azad iqtisadi zona",
+            "description": "Azad iqtisadi zonaya bir növ ixtisaslaşmış iqtisadi zona, birgə sahibkarlıq zonası, azad ticarət zonası və s. daxildir. Azad iqtisadi zona - milli və xarici sahibkarlar üçün güzəştli iqtisadi şərtlərlə nəzərdə tutulmuş məhdud ərazi hissəsinə deyilir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "azərbaycan mənbəyindən gəlir",
+            "title": "Azərbaycan mənbəyindən gəlir",
+            "description": "- Azərbaycan Respublikasında muzdlu işdən gəlir;\\n- Azərbaycan Respublikasında istehsal edilmiş malların istehsalçı tərəfindən təqdim edilməsindən gəlir;\\n- Azərbaycan Respublikasında malların təqdim edilməsindən, iş görülməsindən və xidmət göstərilməsindən gəlir;\\n- Azərbaycan Respublikasının ərazisindəki daimi nümayəndəliyə aid edilən sahibkarlıq fəaliyyətindən əldə olunan gəlir, o cümlədən belə daimi nümayəndəlik vasitəsilə təqdim edilmiş mallara (işlərə, xidmətlərə) aid edilə bilən eyni cinsli, yaxud bənzər (oxşar) malların (işlərin, xidmətlərin) təqdim edilməsindən, habelə daimi nümayəndəlik vasitəsilə həyata keçirilən fəaliyyətə aid edilə bilən fəaliyyətdən və ya ona oxşar fəaliyyətdən əldə edilmiş gəlir;\\nAzərbaycan Respublikasındakı sahibkarlıq fəaliyyəti ilə əlaqədar:\\n- vergi ödəyicisinin borclarının onun kreditorları tərəfindən silinməsindən;\\n- bu Məcəllənin 114.7-ci maddəsinə uyğun olaraq gəlirə daxil edilmiş əsas vəsaitlərin təqdim edilməsindən;\\n- xərclərin bu Məcəllənin 141-ci maddəsinə uyğun olaraq kompensasiya edilməsindən və ya ehtiyatların azalmasından gəlir;\\n- rezident hüquqi şəxsdən dividend şəklində əldə edilən gəlir, həmçinin bu hüquqi şəxsdə iştirak payının satılmasından və ya başqasına verilməsindən əldə edilən gəlir;\\n- rezidentlərdən alınan faizlər şəklində gəlir;\\n- rezident tərəfindən ödənilən pensiya;\\n- Azərbaycan Respublikasının ərazisində daimi nümayəndəliyi və ya əmlakı olan şəxsdən alınan faizlər şəklində gəlir həmin şəxsin bu faizlər üzrə borcu bu cür daimi nümayəndəlik və ya əmlakla bağlıdırsa;\\n- Azərbaycan Respublikasında saxlanılan və ya istifadə edilən əmlak üçün alınan royalti şəklində gəlir, yaxud VM-nin 13.2.23-cü maddəsində göstərilən və Azərbaycan Respublikasında saxlanılan və ya istifadə edilən əmlakın təqdim edilməsindən gəlir;\\n- Azərbaycan Respublikasında istifadə edilən daşınan əmlakın icarəyə verilməsindən əldə edilən gəlir;\\n- Azərbaycan Respublikasındakı daşınmaz əmlakdan əldə edilən gəlir, o cümlədən bu əmlakda iştirak payının təqdim edilməsindən gəlir;\\n- aktivlərinin 50 faizindən çox olan hissəsi birbaşa və ya dolayısı ilə Azərbaycan Respublikasındakı daşınmaz əmlakdan ibarət olan müəssisənin səhmlərinin və ya iştirak payının təqdim edilməsindən gəlir;\\n- rezidentin sahibkarlıq fəaliyyəti ilə bağlı olmayan əmlak təqdim edilməsindən əldə etdiyi digər gəlirlər;\\n- idarəetmə, maliyyə xidmətləri göstərilməsindən əldə edilən gəlir bu gəlir rezident hüquqi şəxsin və ya qeyri-rezidentin Azərbaycan Respublikasının ərazisində yerləşən daimi nümayəndəliyi tərəfindən ödənilirsə, yaxud o, həmin müəssisə və ya onun daimi nümayəndəliyi ilə bağlanmış müqaviləyə əsasən əldə edilmişdirsə;\\n- Azərbaycan Respublikasında riskin sığortası və ya təkrar sığortası haqqında müqavilə üzrə ödənilən gəlir;\\n- Azərbaycan Respublikası ilə digər dövlətlər arasında beynəlxalq rabitə və ya daşınmalar həyata keçirilərkən telekommunikasiya və ya nəqliyyat xidmətlərindən gəlir;\\n- Azərbaycan Respublikasındakı fəaliyyətlə bağlı meydana çıxan və VM-nin əvvəlki maddələrində əhatə edilməyən digər gəlirlər. Bu maddəyə uyğun olaraq gəlirin mənbəyi müəyyən edilərkən gəlirin ödənildiyi yer, həmçinin onun birbaşa və ya dolayısı ilə ödənilməsi nəzərə alınmır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "azərbaycan _respublikası ərazisindən tranzit",
+            "title": "Azərbaycan Respublikası ərazisindən tranzit",
+            "description": "Gömrük qanunvericiliyi ilə müəyyən edilmiş qaydada Azərbaycan Respublikası sərhədindəki iki məntəqə arasında Azərbaycan Respublikası ərazisi ilə daşınma.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "bank",
+            "title": "Bank",
+            "description": "Fiziki və hüquqi şəxslərin pul əmanətlərinin cəlb edilməsi, qaytarılması, onlar üçün bank hesablarının açılması, kassa xidmətlərinin göstərilməsi və s. əməliyyatlarla məşğul olan kredit təşkilatı.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "barter sövdələşməsi",
+            "title": "Barter sövdələşməsi",
+            "description": "Birbaşa, müstəqil mal mübadiləsi. Belə sövdələşmə müasir dünya bazarının deyil, inkişaf etməmiş, sadə əmtəə münasibətləri dövrü üçün səciyyəvidir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "bazar",
+            "title": "Bazar",
+            "description": "Zahirən mübadilə, tədavül sferalarında, alqı-satqı mühitində təşəkkül tapan, lakin istehsal sistemləri ilə bağlı olan iqtisadi əlaqələr sistemi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "bazar qiyməti",
+            "title": "Bazar qiyməti",
+            "description": "Malın (işin, xidmətin) tələblə təklifin qarşılıqlı təsiri nəticəsində təşəkkül tapan qiyməti.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "bazarın seqmentasiyası",
+            "title": "Bazarın seqmentasiyası",
+            "description": "İstehlak bazarının hər hansı bir əlamətinə görə ayrı-ayrı seqmentlərə bölünməsi. Burada valyutanın tipi, regionun, ölkənin, qrup istehlakçılarının, fərdi istehlakçıların xüsusiyyətləri, tədiyə qabiliyyəti və s. nəzərə alınır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "beynəlxalq daşıma",
+            "title": "Beynəlxalq daşıma",
+            "description": "Yüklərin və sərnişinlərin Azərbaycan Respublikası ilə (Azərbaycan Respublikasının sərhədlərindən) digər dövlətlərdəki məntəqə arasında daşınma sayılır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "bələdiyyə",
+            "title": "Bələdiyyə",
+            "description": "Ərəbcə \"şəhər idarəsi\" deməkdir; seçkili yerli idarə və özünüidarə orqanı; əsas gəlir mənbəyi əhalidən tutulan yerli vergilərdir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "birbaşa vergilər",
+            "title": "Birbaşa vergilər",
+            "description": "Hüquqi və fiziki şəxslərin gəlirindən və ya əmlakından bilavasitə tutulan vergilər.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "birja",
+            "title": "Birja",
+            "description": "Əmtəələrin, qiymətli kağızların birbaşa satışı və topdansatış ticarətini təşkil edən rəsmi qeydiyyata alınan bazar.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "biznes",
+            "title": "Biznes",
+            "description": "Ticarət, iş, sövdələşmə",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "biznes-planlaşdırma",
+            "title": "Biznes-planlaşdırma",
+            "description": "Sahibkarlıq, investisiya layihələrinin hazırlanması və həyata keçirilməsi, firma və şirkətlərin inkişaf etdirilməsi üzrə tədbirlər sistemi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "borc",
+            "title": "Borc",
+            "description": "Müəyyən edilmiş müddətdə ödənilməli olan maliyyə və kreditor borclarından ibarət olur, yəni müvafiq olaraq təşkilatın hesabına daxil olmalı vəsait və kreditor qarşısında maliyyə öhdəliyi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "büdcə",
+            "title": "Büdcə",
+            "description": "Dövlətin, firmanın, ev təsərrüfatının və s. müəyyən dövr üçün gəlirlərinin və xərclərinin siyahısı; ingiliscə \"budget\" - \"çanta\" sözündən götürülmüşdür.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "büdcələşmə",
+            "title": "Büdcələşmə",
+            "description": "Əməliyyat (satış büdcəsi, istehsal büdcəsi, xərclər büdcəsi) və maliyyə (investisiya büdcəsi, kassa büdcəsi, balans hesabatı) büdcələrinin hazırlanması, mənfəət və zərərlər, pul vəsaitinin hərəkəti, onların sistemli təhlili, habelə balans hesabatının proqnozlaşdırılması.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "büdcənin vergi gəlirləri",
+            "title": "Büdcənin vergi gəlirləri",
+            "description": "Vergiyə cəlb etmə qaydasında büdcəni formalaşdıran gəlirlər növü.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "büdcələşmənin idarə edilməsi",
+            "title": "Büdcələşmənin idarə edilməsi",
+            "description": "İnformasiya axınının, maliyyə vəziyyətinin debitor-kreditor borclarının, planlaşdırma və uçotu işlərinin və s. təhlili, bu və digər sferalara nəzarət sisteminin optimallaşdırılması, büdcənin formalaşmasına strateji baxımdan yanaşılması, müvafiq proqnozların (balans proqnozu, pul vəsaitlərinin hərəkəti proqnozu və s.) verilməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "büdcə təşkilatı",
+            "title": "Büdcə təşkilatı",
+            "description": "Büdcə smetası əsasında fəaliyyəti tamamilə və ya qismən büdcə vəsaiti hesabına maliyyələşdirilən, hesablaşma hesabı olmayan qeyri-kommersiya təşkilatıdır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "daimi nümayəndəlik",
+            "title": "Daimi nümayəndəlik",
+            "description": "Azərbaycan Respublikasında qeyri-rezident hüquqi şəxsin və ya qeyri-rezident fiziki şəxsin daimi nümayəndəliyi həmin şəxslərin istənilən 12 ay ərzində Azərbaycan Respublikasında üst-üstə 90 gündən az olmayaraq bilavasitə və ya müvəkkil edilmiş şəxs vasitəsilə tam və ya qismən sahibkarlıq fəaliyyətini həyata keçirdiyi yerdir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "davalsiya xammalı",
+            "title": "Davalsiya xammalı",
+            "description": "Sahibi üçün hazır məhsul istehsal etmək məqsədilə digər ölkədən gətirilən xammal.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "deflyasiya",
+            "title": "Deflyasiya",
+            "description": "İnflyasiyanı azaltmaq məqsədilə dövlətin dövriyyədə olan pulun bir hissəsini götürməsi, əmtəə qiymətlərinin aşağı düşməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "defolt",
+            "title": "Defolt",
+            "description": "Borc alanın nəzərdə tutulan müddətdə öz borcunu ödəyə bilməməsi haqqında xəbərdarlıq etməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "dempinq",
+            "title": "Dempinq",
+            "description": "Bir ölkənin istehsal etdiyi əmtəəsini öz ölkəsindəkinə nisbətən digər ölkənin ərazisində ucuz qiymətə satması. Bu həmin məhsul satışı bazarında potensial rəqibini sıxışdırmaq, satışın həcmini çoxaltmaq məqsədilə edilir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "departament",
+            "title": "Departament",
+            "description": "Bəzi ölkələrdə dövlət idarəsinin bir formasıdır; Fransada isə inzibati ərazi bölgüsüdür.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "depozit",
+            "title": "Depozit",
+            "description": "Müəyyən məqsədlə saxlanmaq üçün bank və ya başqa kredit idarələrinə verilən pul və ya qiymətli kağız.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "determinizm",
+            "title": "Determinizm",
+            "description": "Sosial-iqtisadi və digər hadisə və proseslərin səbəbiyyət şərtlənməsi, onların qanunauyğunluqları haqqında təlim.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "dividend",
+            "title": "Dividend",
+            "description": "1. Hüquqi şəxsin öz təsisçilərinin (payçılarının) və yaxud səhmdarlarının xeyrinə xalis mənfəətinin (sadələşdirilmiş vergi ödəyiciləri tərəfindən vergi və xərclər çıxıldıqdan sonra gəlirin) bölüşdürülməsi ilə bağlı pul və ya digər ödəmələr şəklində etdiyi ödəniş.\\nHüquqi şəxsin ləğvi ilə bağlı əmlakın bölüşdürülməsi nəticəsində əldə edilən gəlir, həmçinin səhmdarların səhmlərinin faiz nisbətini dəyişdirməyən səhmlərin bölüşdürülməsi, səhmlərin (hissələrin, payların) nominal dəyəri hüdudlarında geri alınması ilə bağlı edilən ödənişlər dividend sayılmır.\\n2. Səhmlərə görə müəssisənin illik gəlirindən ayrılan pay.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "dolayı vergilər",
+            "title": "Dolayı vergilər",
+            "description": "Əmtəənin və xidmətin qiymətindən tutulan vergilər; qismən və ya tamamilə əmtəənin dəyərinə köçürülür.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "dövlət qulluqçusu",
+            "title": "Dövlət qulluqçusu",
+            "description": "Dövlət vəzifəsini tutan və onu yüksək peşəkarlıqla yerinə yetirən şəxs. Dövlət qulluğu icraedici, qanunverici və məhkəmə hakimiyyəti orqanlarının fəaliyyəti ilə bağlıdır və müəyyən edilmiş səlahiyyətlər, qanunlar və prinsiplər çərçivəsində formalaşır, fəaliyyət göstərir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "dövlət qulluqçularının gəlirləri haqqında deklarasiya",
+            "title": "Dövlət qulluqçularının gəlirləri haqqında deklarasiya",
+            "description": "Gəlirlər, əmlak haqqında məlumat. Deklarasiya aşağıdakı hallar üçün zəruridir:\\n- vergiyə cəlb etmə;\\n- dövlət vəzifəsinə təyin etmədə.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "dövlət qulluqçularının vəzifə cinayəti",
+            "title": "Dövlət qulluqçularının vəzifə cinayəti",
+            "description": "Vəzifə səlahiyyətindən istifadə etməklə vəzifəli şəxslərin təhlükəli fəaliyyət göstərməsi. Bu fəaliyyətin məzmunu və xarakteri ayrı-ayrı dövlət orqanlarında müxtəlif olur.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "dövlət qulluqçularının vəzifə təlimatları",
+            "title": "Dövlət qulluqçularının vəzifə təlimatları",
+            "description": "Dövlət hakimiyyətində müxtəlif vəzifələr üzrə çalışan işçilərin vəzifələrini (funksional fəaliyyəti, səlahiyyətlərini, vəzifə öhdəliklərini, hüquq və məsuliyyətlərini, struktur əlaqələrini) əks etdirən sənəd.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "ehtimallıq",
+            "title": "Ehtimallıq",
+            "description": "Hadisələr sistemində təsadüflərin baş verməsini səciyyələndirən kəmiyyəti, miqdarı və təkrarlanmasının qeyri-mehdudluğu dərəcəsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "ekspert",
+            "title": "Ekspert",
+            "description": "Müəyyən bir məsələ barədə mütəxəssis kimi fikir söyləyən şəxs.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "elmi idarəetmə",
+            "title": "Elmi idarəetmə",
+            "description": "Mövcud və gələcək qanunauyğunluqları, meyilləri, elmi mülahizələri, müddəaları sistemli qaydada əsas götürməklə makro və mikro proseslərə, sistemlərə şüurlu təsir etməklə onların optimal gedişatını, fəaliyyətini, inkişafını yəmin etmə.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "etatizm",
+            "title": "Etatizm",
+            "description": "Dövlətin cəmiyyətin sosial-siyası həyatına fəal müdaxilə etməsi zəruriyyətini irəli sürən konsepsiya.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "emitent",
+            "title": "Emitent",
+            "description": "Qiymətli kağızı emissiya etmiş, buraxmış və ya vermiş şəxsdir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "emissiya",
+            "title": "Emissiya",
+            "description": "Bütün növ pul nişanlarının və qiymətli kağızların dövriyyəyə buraxılmasıdır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əks əlaqə",
+            "title": "Əks əlaqə",
+            "description": "İdarəetmədə, canlı orqanizmdə idarəetmə prosesini səciyyələndirən və idarə olunan obyektin idarəedici orqana əks təsirini ifadə edən bir prosesdir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əks əlaqə qaydasında idarəetmə",
+            "title": "Əks əlaqə qaydasında idarəetmə",
+            "description": "Obyektdən subyektə informasiya çatdırma qaydasında idarəçilik fəaliyyətidir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əmək bölgüsü",
+            "title": "Əmək bölgüsü",
+            "description": "Əmək fəaliyyətinin bir-birindən fərqlənməsi, ixtisaslaşması. Müəssisələrdə bu, funksional (istehsal funksiyası, idarəetmə, istehsala xidmət etmə, peşə ixtisaslaşması), texnoloji (istehsal proseslərinin hazırlıq, emaledici, yığma mərhələlərinə ayrılması) və ixtisas (işin müxtəlif mürəkkəblik, dəqiqlik, məsuliyyətli məzmuna, səviyyəyə ayrılması) əlamətlərinə görə fərqlənir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əmək ehtiyatlarının idarə edilməsi",
+            "title": "Əmək ehtiyatlarının idarə edilməsi",
+            "description": "Onların formalaşması, bölüşdürülməsi, istifadəsi, hazırlanması, məşğuliyyəti, planlaşdırılması və s. əhatə edən makro və mikro səviyyəli fəaliyyət növüdür.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əmək haqqının dövlət tənzimlənməsi",
+            "title": "Əmək haqqının dövlət tənzimlənməsi",
+            "description": "Təminatlı minimum əmək haqqınln müəyyən edilməsi, əmək haqqının indeksasiyası, əmək haqqının vergi qaydası ilə tənzimlənməsi, əmək haqqının hüquqi tənzimlənməsi, gəlirlər və qiymət siyasəti, sosial müdafiə, əmək haqqının istehsalının səmərəliliyi, işçinin əməkdə iştirak dərəcəsi, müəssisənin gəlir səviyyəsilə əlaqələndirilməsi, mükafatlandırma sisteminin düzgün seçilməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əmək kollektivləri",
+            "title": "Əmək kollektivləri",
+            "description": "Fəaliyyətini özü tənzimləyəm sosial sistemdir. Əmək təşkilatları müəyyən məqsədlər üçün yaradılır, adamların fəaliyyəti və davranışını proqramlaşdırma, əlaqələndirmə funksiyasını icra edir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əmək metodları və fəndləri",
+            "title": "Əmək metodları və fəndləri",
+            "description": "Əmək hərəkətləri ünsürkərinin müxtəlif qaydada əlaqələndirilməsi, bu məqsədlə ən az iş vaxtının, fiziki və psixiki səylərin, enerjinin sərf edilməsi, iş hərəkətlərinə qənaət edilməsi, hərəkət trayektoriyasının fizioloji və psixoloji cəhətdən əsaslandırılması, hərəkətdə ahəngdarlığın təmin edilməsi, əməliyyatların səmərələşdirilməsi, artıq hərəkətlərin aradan qaldırılması və s. tədbirlərin həyata keçirilməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əmək şəraiti",
+            "title": "Əmək şəraiti",
+            "description": "Əmək prosesində işçilərin sağlamlığı və iş qabiliyyətinə təsir edən istehsal mühiti amilləridir. Həmin amillər qrupu aşağıdakı kimi təsnifata ayrılır:\\n- sanitariya-gigiyena şəraiti;\\n- psixofizioloji şərait;\\n- estetik şərait;\\n- sosial-psixoloji şərait.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əmlak",
+            "title": "Əmlak",
+            "description": "Hər hansı daşınan və ya daşınmaz əmlak, o cümlədən qeyri-maddi aktivlər, dövriyyə vəsaitləri və mülkiyyət hüququnun digər obyektləri.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əmlakın qalıq dəyəri",
+            "title": "Əmlakın qalıq dəyəri",
+            "description": "Əsas vəsaitlərin ilkin dəyərinin həmin əsas vəsaitlərə hesablanmış amortizasiyanın məbləği qədər azaldılan dəyəri.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əmtəə",
+            "title": "Əmtəə",
+            "description": "Mübadilə üçün istehsal edilən əmək məhsulu.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əmtəə birjası",
+            "title": "Əmtəə birjası",
+            "description": "Bura eyni cinsli malların müntəzəm satışı ilə məşğul olan kommersiya müəssisələri daxildir. Bu birjada sövdələşmə işlərini brokerlər aparırlar, burada birja qiymətləri müəyyən edilir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "əsas vəsaitlər",
+            "title": "Əsas vəsaitlər",
+            "description": "Əsas vəsaitlər - istifadə müddəti bir ildən çox olan və dəyəri 500 manatdan çox olan Vergi Məcəlləsinin 114-cü maddəsinə uyğun olaraq amortizasiya edilməli olan maddi aktivlər.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "faizlər",
+            "title": "Faizlər",
+            "description": "Borc öhdəlikləri ilə bağlı olan hər hansı ödəmə, o cümlədən kreditlərin (ssudaların) və ya depozitlərin (hesabların) verilməsi üçün ödəmə.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "fiskal",
+            "title": "Fiskal",
+            "description": "\"Fisk\" latın sözüdür, \"hörmə zənbil\" deməkdir; qədim Romada pulları belə zənbillərdə saxlayırdılar, hazırda \"fiskal\" dedikdə toplanmış pulun dövlət xəzinəsinə verilməsi xüsusiyyəti başa düşülür.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "fiziki şəxs",
+            "title": "Fiziki şəxs",
+            "description": "Azərbaycan Respublikasının vətəndaşı, əcnəbi və vətəndaşlığı olmayan şəxs.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "fond birjası",
+            "title": "Fond birjası",
+            "description": "Bu, mütəşəkkil olaraq qiymətli kağızların alınıb-satılması ilə məğul olur. Aşağıdakı başlıca xüsusiyyətləri vardır: \\n- müvəqqəti azad olan pul vəsaitlərini səfərbər etmək; \\n- qiymətli kağızların bazar dəyərini müəyyən etmək; \\n- kapitalın şirkətlər, sahələr üzrə axınını təmin etmək.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "forvard kontraktı",
+            "title": "Forvard kontraktı",
+            "description": "Şəxsin qiymətli kağızlar, mallar və ya pul vəsaitləri gələcəkdə müəyyən vaxtda və müəyyən şərtlərlə bu cür forvard kontraktının bağlandığı anda təsbit edilmiş qiymətlə əldə etməyə (satmağa) öhdəliyini təsdiq edən müqavilədir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "gəlir",
+            "title": "Gəlir",
+            "description": "Fiziki və hüquqi şəxs tərəfindən əmək haqqı, məvacib, faiz, mənfəət və s. şəklində alınan pul.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "hərrac",
+            "title": "Hərrac",
+            "description": "Əmlakın açıq satışı",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "hüquqi şəxs",
+            "title": "Hüquqi şəxs",
+            "description": "Azərbaycan Respublikasının və ya xarici dövlətin qanunvericiliyinə uyğun olaraq hüquqi şəxs statusunda yaradılmış müəssisə və təşkilatlar.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "xalis mənfəət",
+            "title": "Xalis mənfəət",
+            "description": "Mənfəət vergisi çıxıldıqdan sonra qalan mənfəət.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "xeyriyyə təşkilatı",
+            "title": "Xeyriyyə təşkilatı",
+            "description": "Xeyriyyəçilik fəaliyyətini həyata keçirən qeyri-kommersiya təşkilatı.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "xeyriyyəçilik fəaliyyəti",
+            "title": "Xeyriyyəçilik fəaliyyəti",
+            "description": "Fiziki şəxs və (və ya) xeyriyyə təşkilatı tərəfindən həyata keçirilən və maddi və ya digər köməyə (yardıma) ehtiyacı olan fiziki şəxslərə və ya bilavasitə bu cür kömək (yardım) göstərən təşkilatlara, o cümlədən xeyriyyə təşkilatlarına, birbaşa bu cür təmənnasız kömək (yardım) göstərməkdən, o cümlədən əvəzsiz pul köçürməkdən ibarət olan fəaliyyət, yaxud bu Məcəllədə digər hallar nəzərdə tutulmamışdırsa, ictimai mənafelər naminə həyata keçirilən elmi, təhsil və ya başqa fəaliyyətdir. Aşağıdakı hallarda kömək (yardım) göstərilməsi xeyriyyəçilik fəaliyyəti sayılmır: \\n- bu cür köməyi (yardımı) alan şəxs köməyi (yardımı) göstərən şəxsin qarşısında mülkiyyət və ya qeyri-mülkiyyət xarakterli öhdəlik (alınan vəsaitdən və ya əmlakdan məqsədli təyinatla istifadə olunmasına dair öhdəlikdən başqa) qəbul edirsə; \\n-bu cür köməyi (yardımı) alan və köməyi (yardımı) göstərən şəxslər qarşılıqlı surətdə asılı olan şəxslər sayılırlarsa; \\n-bu cür kömək (yardım) hər hansı fiziki və ya hüquqi şəxsə seçki kampaniyasında iştirak etmək üçün göstərilirsə.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "xidmət (iş)",
+            "title": "Xidmət (iş)",
+            "description": "Malların təqdim edilməsi sayılmayan, nəticələri maddi ifadə kəsb edən fəaliyyət.\\nƏDV-nin məqsədləri üçün pul vəsaitinə və torpağa mülkiyyət hüququnun başqasına verilməsi, həmçinin işəgötürənə muzdlu işçi kimi xidmət göstərilməsi istisna olunur.\\nXidmətlərin göstərilməsi (işlərin görülməsi) zamanı istifadə olunan mallar ayrıca təqdim edilmirsə və ya xidmətin (işin) dəyərinə daxil edilməyən kompensasiyalı xərclər müqavilədə və ya ödəniş sənədlərində ayrıca göstərilmirsə, həmin mallar və ya xərclər xidmətin (işin) ayrılmaz tərkib hissəsi hesab edilir. \\n- Satışdankənar gəlirlər - digər müəssisələrin fəaliyyətində payçı kimi iştirakdan gəlir, müəssisəyə məxsus səhmlər, istiqrazlar və digər qiymətli kağızlardan əldə olunan gəlirlər, habelə mal və xidmət (iş) istehsalı və satışı ilə bilavasitə bağlı olmayan əməliyyatan götürülən digər gəlirlər, o cümlədən cərimə və zərərin ödənilməsi şəklində alınmış məbləğ, xarici valyuta əməliyyatları üzrə artan məzənnə fərqi, qanunvericiliyə müvafiq iddia müddəti keçmiş kreditor deponent borc məbləğləri. \\n- Vergi ödəyicisinin, alıcının, sifarişçinin və ya hər hansı şəxsin adı - hüquqi şəxsin dövlət qeydiyyatına alınmış adı, fiziki şəxsin adı, atasının adı və soyadı. Maliyyə xidmətləri: \\n- kreditlərin, maliyyə lizinqi əməliyyatlarının, kredit təminatlarının və pul-kredit əməliyyatlarında hər hansı girov və ya lombard təminatının təqdim edilməsi (yaxud verilməsi) və qaytarılması, o cümlədən krediti və ya təminatı təqdim etmiş şəxsin kreditləri və kredit təminatlarını idarə etməsi; \\n- müştərilərin depozitlərinin və hesablarının idarə edilməsi, tədiyələr, köçürmələr, borc öhdəlikləri və tədiyə vasitələri ilə bağlı əməliyyatlar; \\n- qanuni tədiyə vasitələri olan valyutanın, pul vəsaitlərinin və əskinasların (numizmatika əşyalarından başqa) tədavülü ilə bağlı əməliyyatlar; \\n- səhmlərin, istiqraz vərəqələrinin, sertifikatların, veksellərin, çeklərin və digər qiymətli kağızların tədavülü ilə bağlı əməliyyatlar. İnkassasiya xidmətləri və ya banknotların, qiymətli kağızların və ya digər qiymətlilərin saxlanması və ya onların qorunmasının təmin edilməsi üzrə xidmətlər maliyyə xidmətlərinə aid deyildir; \\n- törəmə maliyyə vasitələri ilə əqdlərə, forvard müqavilələrinə, opsionlara və analoji sazişlərə aid əməliyyatlar; \\n- investisiya fondlarının idarə edilməsi ilə bağlı xidmətlər; \\n- sığorta və təkrar sığorta əməliyyatları.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "xronometraj",
+            "title": "Xronometraj",
+            "description": "Əmək prosesləri müddətinin dəqiq ölçülməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "i̇dxal",
+            "title": "İdxal",
+            "description": "Ölkə daxilinə gətirilən mallar, xidmətlər və ya kapital aktivləri.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "i̇xrac",
+            "title": "İxrac",
+            "description": "Xarici ölkəyə ötürülən mallar, xidmətlər və ya kapital aktivləri.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "i̇qtisadiyyat",
+            "title": "İqtisadiyyat",
+            "description": "Cəmiyyətin mallara və xidmətlərə tələbatının maksimal ödənməsi məqsədilə mövcud istehsal amillərinin daha effektli istifadəsi haqqında elm.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "i̇qtisadi inteqrasiya",
+            "title": "İqtisadi inteqrasiya",
+            "description": "Milli təsərrüfatların, iqtisadiyyatın yaxşılaşması və bir-biri ilə şərtləşməsi, bir-birinə uyğunlaşması prosesidir. İnteqrasiya prosesi özünü aşağıdakı istiqamətlərdə göstərir:\\n- azad ticarət zonası (gömrük məhdudiyyətinin götürülməsi);\\n- gömrük ittifaqı (ölkələrarası malların hərəkəti, vahid gömrük tarifləri);\\n- ümumi bazar;\\n- iqtisadi ittifaq (vahid iqtisadi siyasət).",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "i̇stehsal",
+            "title": "İstehsal",
+            "description": "Hasil etmə, hazırlama, əldə etmə.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "i̇ştirakçı",
+            "title": "İştirakçı",
+            "description": "Səhmdar, payçı və ya müəssisənin mənfəətində digər iştirakçı.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "i̇nvestisiya qiymətli kağızlar",
+            "title": "İnvestisiya qiymətli kağızlar",
+            "description": "Emitent tərəfindən emissiya edilən və kapital qoyuluşunun obyekti olan qiymətli kağızlar (istiqraz, səhm).",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "kameral yoxlama",
+            "title": "Kameral yoxlama",
+            "description": "Yerlərə getmədən təqdim olunan sənədlər əsasında yoxlama.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "kapital",
+            "title": "Kapital",
+            "description": "Sərmayə, sərvət, əmlak, istehsal vasitələri və s. hamısı birlikdə kapital hesab olunur; bütün öhdəliklər çıxıldıqdan sonra müəssisənin aktivlərinin qalan payı da kapital adlandırılır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "kommersiya təşkilatı",
+            "title": "Kommersiya təşkilatı",
+            "description": "Kommersiya (ticarət) fəaliyyətini həyata keçirən, əldə etdiyi gəliri təsisçilər (payçılar, iştirakçılar) arasında bölməyib kommersiya məqsədləri üçün sərf edən hüquqi şəxs.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "kompensasiya",
+            "title": "Kompensasiya",
+            "description": "Bərpa etmə; əvəz etmə; əvəzini ödəmə.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "kredit",
+            "title": "Kredit",
+            "description": "Fiziki və ya hüquqi şəxsə məhsul, xammal, məmulat və s. alıb müəyyən müddət keçdikdən sonra pulunu ödəmək imkanı verən maliyyə xidməti.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "kalkulyasiya",
+            "title": "Kalkulyasiya",
+            "description": "(lat. calculatio-hesab, hesablama) - Mühasibatda məhsul vahidinin, yaxud məhsul dəstinin istehsalı və satışı, həmçinin işlərin və xidmətlərin görülməsi xərclərinin pul ifadəsində hesablanmasıdır",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "qarşılıqlı surətdə asılı olan şəxslər",
+            "title": "Qarşılıqlı surətdə asılı olan şəxslər",
+            "description": "Vergi məqsədləri üçün qarşılıqlı surətdə asılı olan şəxslər - aralarındakı münasibətlər fəaliyyətlərinin iqtisadi nəticələrinə və ya onların təmsil etdiyi şəxslərin fəaliyyətinə bilavasitə təsir göstərə bilən fiziki şəxslər və (və ya) hüquqi şəxslərdir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "qeyri əmək gəlirləri",
+            "title": "Qeyri əmək gəlirləri",
+            "description": "İqtisadi, hüquqi sosial və etik qanunları pozmaqla əldə edilən, mənimsənilən gəlirlərdir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "qeyri-kommersiya fəaliyyəti",
+            "title": "Qeyri-kommersiya fəaliyyəti",
+            "description": "Məqsədi gəlir götürmək olmayan və əldə etdiyi gəliri yalnız qeyri-kommersiya məqsədləri, o cümlədən öz nizamnamə məqsədləri üçün istifadə etməyi nəzərdə tutan qanunla qadağan edilməyən fəaliyyətin həyata keçirilməsidir, əks halda bu fəaliyyət kommersiya fəaliyyəti sayılır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "qeyri-kommersiya təşkilatı",
+            "title": "Qeyri-kommersiya təşkilatı",
+            "description": "Qeyri-kommersiya fəaliyyətini həyata keçirən, əldə etdiyi gəliri təsisçilər (payçılar, iştirakçılar) arasında bölüşdürməyən və onu kommersiya məqsədləri üçün sərf etməyən hüquqi şəxsdir, əks halda bu təşkilat kommersiya təşkilatı sayılır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "qeyri-maddi aktivlər",
+            "title": "Qeyri-maddi aktivlər",
+            "description": "İntellektual, o cümlədən ticarət nişanları, digər sənaye mülkiyyəti obyektləri, habelə müvafiq qanunvericiliklə müəyyən edilmiş qaydada vergi ödəyicisinin mülkiyyət hüququnun obyekti kimi tanınan digər analoji hüquqlar.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "qeyri-rezident",
+            "title": "Qeyri-rezident",
+            "description": "- Azərbaycan Respublikasının ərazisində diplomatik və ya konsulluq statusu olan şəxs və onun ailə üzvləri; \\n- Azərbaycan Respublikasının ərazisində müəyyən edilmiş qaydada dövlət qeydiyyatından keçmiş beynəlxalq təşkilatın əməkdaşı və ya Azərbaycan Respublikasında xarici ölkənin dövlət xidmətini həyata keçirən şəxs və onların ailə üzvləri; \\n- məqsədi yalnız Azərbaycan Respublikasının ərazisindən bir xarici dövlətdən digər xarici dövlətə keçmək olan şəxs; \\n- Azərbaycan Respublikasının ərazisində yerləşən diplomatik imtiyazları və immunitetləri olan diplomatik nümayəndəliklər, konsulluq idarələri və xarici ölkələrin digər rəsmi nümayəndəlikləri, beynəlxalq təşkilatlar və onların nümayəndəlikləri, habelə sahibkarlıq fəaliyyəti ilə məşğul olmayan xarici təşkilatların və firmaların nümayəndəlikləri; \\n- rezident anlayışı ilə əhatə edilməyən digər şəxslər.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "qiymət",
+            "title": "Qiymət",
+            "description": "Əmtəənin dəyərinin pulla ifadəsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "lisenziya",
+            "title": "Lisenziya",
+            "description": "Ayrı-ayrı şəxslərə və ya təşkilatlara müəyyən iş görmək üçün ixtiranı, biliyi, təcrübəni və s. istifadə etməyə görə icazə.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "lizinq",
+            "title": "Lizinq",
+            "description": "Aktivlərin - əsasən binaların, avadanlıqların və nəqliyyat vasitələrinin) lizinq şirkətləri tərəfindən alınması; həmin şirkətlər bu aktivləri müəyyən haqq almaqla müştərilərə icarəyə verir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "makroiqtisadiyyat",
+            "title": "Makroiqtisadiyyat",
+            "description": "Bütün təsərrüfatı tam şəkildə öyrənən iqtisadiyyat.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "mal",
+            "title": "Mal",
+            "description": "Hər hansı maddi və ya qeyri-maddi əmlak (aktiv), o cümlədən elektrik və istilik enerjisi, qaz və su. Əlavə dəyər vergisinin (ƏDV) məqsədləri üçün qeyri-maddi aktivlər, pul vəsaiti və torpaq mal sayılmır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "maliyyə",
+            "title": "Maliyyə",
+            "description": "Pul vəsaitləri fondlarının yaradılması və istifadəsi prosesində iqtisadi münasibətlərin məcmusu.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "maliyyə xidmətləri",
+            "title": "Maliyyə xidmətləri",
+            "description": "- Kreditlərin, maliyyə lizinqi əməliyyatlarının, kredit təminatlarının və pul-kredit əməliyyatlarında hər hansı girov və ya lombard təminatının təqdim edilməsi (yaxud verilməsi) və qaytarılması, o cümlədən krediti və ya təminatı təqdim etmiş şəxsin kreditləri və kredit təminatlarını idarə etməsi;\\n- müştərilərin depozitlərinin və hesablarının idarə edilməsi, tədiyələr, köçürmələr, borc öhdəlikləri və tədiyə vasitələri ilə bağlı əməliyyatlar;\\n- qanuni tədiyə vasitələri olan valyutanın, pul vəsaitlərinin və əskinasların (numizmatika əşyalarından başqa) tədavülü ilə bağlı əməliyyatlar;\\n- səhmlərin, istiqraz vərəqələrinin, sertifikatların, veksellərin, çeklərin və digər qiymətli kağızların tədavülü ilə bağlı əməliyyatlar. İnkassasiya xidmətləri və ya banknotların, qiymətli kağızların və ya digər qiymətlilərin saxlanması və ya onların qorunmasının təmin edilməsi üzrə xidmətlər maliyyə xidmətlərinə aid deyildir;\\n- törəmə maliyyə vasitələri ilə əqdlərə, forvard müqavilələrinə, opsionlara və analoji sazişlərə aid əməliyyatlar;\\n- investisiya fondlarının idarə edilməsi ilə bağlı xidmətlər;\\n- sığorta və təkrar sığorta əməliyyatları.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "malların idxalı",
+            "title": "Malların idxalı",
+            "description": "Gömrük qanunvericiliyinə uyğun olaraq idxal malları sayılan malların Azərbaycan Respublikası ərazisinə gətirilməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "malların ixracı",
+            "title": "Malların ixracı",
+            "description": "Gömrük qanunvericiliyinə uyğun olaraq ixrac malları hesab edilən malların Azərbaycan Respublikası ərazisindən çıxarılması.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "malların təkrar ixracı",
+            "title": "Malların təkrar ixracı",
+            "description": "Gömrük qanunvericiliyinə uyğun olaraq, təkrar ixrac malları sayılan malları idxal etmiş şəxsin həmin malları idxal edəndən sonra təqdim etmədən və idxal olunduğu andakı vəziyyətdə ixrac etməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "malların təkrar idxalı",
+            "title": "Malların təkrar idxalı",
+            "description": "Gömrük qanunvericiliyinə uyğun olaraq, təkrar idxal malları sayılan malları təqdim etmədən və ixrac olunduğu andakı vəziyyətdə ixrac etmiş şəxsin həmin malları idxal etməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "malların təqdim edilməsi",
+            "title": "Malların təqdim edilməsi",
+            "description": "Mallar üzərində mülkiyyət hüququnun başqasına verilməsi, o cümlədən, lakin bunlarla məhdudlaşdırılmayan, malların satışı, mübadiləsi, hədiyyə verilməsi, natura şəklində əmək haqqı ödənilməsi və natura şəklində digər ödəmələr, həmçinin girov qoyulmuş mallar üzrə mülkiyyət hüququnun girov saxlayana və ya digər şəxsə keçməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "mənfəət",
+            "title": "Mənfəət",
+            "description": "Ümumi gəlirlə ümumi xərc arasındakı fərq.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "mikroiqtisadiyyat",
+            "title": "Mikroiqtisadiyyat",
+            "description": "Təsərrüfatın ayrı-ayrı hissələrini, formalarını, istehlakçıların fəaliyyətini öyrənən iqtisadiyyat.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "muzdlu iş",
+            "title": "Muzdlu iş",
+            "description": "Əmək qanunvericiliyinə uyğun olaraq müqavilə (kontrakt) əsasında haqqı ödənilməklə yerinə yetirilən əmək fəaliyyətidir. Muzdlu işləyən şəxs bu Məcəllənin məqsədləri üçün \"işçi\", bu cür fiziki şəxsin işçi kimi göstərdiyi xidmətlərin haqqını ödəyən şəxs \"işəgötürən\", bu cür haqq isə \"əmək haqqı\" adlandırılır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "müamilə",
+            "title": "Müamilə",
+            "description": "Rəftar, münasibət, davranış; alver; alış-veriş; borc verilən pul müqabilində alınan faiz, sələm.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "müavinət",
+            "title": "Müavinət",
+            "description": "Kömək, yardım.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "mübadilə",
+            "title": "Mübadilə",
+            "description": "Bir şeyi verib əvəzində başqa şey alma, dəyişmə.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "mükəlləfiyyət",
+            "title": "Mükəlləfiyyət",
+            "description": "Dövlət, cəmiyyət və s. tərəfindən əhali üzərinə qoyulan vəzifə.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "müəssisə",
+            "title": "Müəssisə",
+            "description": "Vergi Məcəlləsinin məqsədləri üçün müəssisələr -sahibkarlıq fəaliyyətini həyata keçirən və bu cür fəaliyyət üçün yaradılan aşağıdakı qurumlar deməkdir:\\n- Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq yaradılmış hüquqi şəxslər;\\n- xarici dövlətin qanunvericiliyinə uyğun olaraq yaradılmış hüquqi şəxslər (korporasiyalar, şirkətlər, firmalar və digər analoji qurumlar), habelə onların filialları və ya daimi nümayəndəlikləri;\\n- Vergi Məcəlləsinin 13.2.39.1-ci maddəsində göstərilmiş hüquqi şəxslərin sərbəst balansa, cari və ya digər hesablara malik olan filialları, struktur bölmələri və ya digər ayrıca bölmələri.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "müqavilə",
+            "title": "Müqavilə",
+            "description": "Qarşılıqlı təəhhüdlər (öhdəliklər) haqqında yazılı saziş.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "nemət",
+            "title": "Nemət",
+            "description": "İnsanın tələbatını bilavasitə və ya dolayı yolla ödəyən maddi məhsul.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "nəzarət",
+            "title": "Nəzarət",
+            "description": "Ərəb sözüdür; \"baxmaq\", \"görmək\", \"müşahidə etmək\" mənalarında işlənir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "opsion",
+            "title": "Opsion",
+            "description": "Qiymətli kağızlar, mallar və ya pul vəsaitləri gələcəkdə müəyyən şərtlərlə bu cür opsionun bağlanması anına və ya tərəflərin qərarına əsasən bu cür əldə etmənin anına satış qiymətlərinin təsbit edilməsi ilə əldə etməyə (satmağa) hüququ təsdiq edən sənəddir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "pensiya",
+            "title": "Pensiya",
+            "description": "Müəyyən əmək stajı olanlara, şikəstlərə, qocalara və s. dövlət tərəfindən verilən pul təminatı.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "podrat",
+            "title": "Podrat",
+            "description": "Müəyyən haqq müqabilində iş görməkdən ibarət öhdəlik və həmin öhdəlik üzrə görülən iş.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "podratçı",
+            "title": "Podratçı",
+            "description": "Podrat üzrə işləyən adam və ya təşkilat.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "proses",
+            "title": "Proses",
+            "description": "Hər hansı bir nəticəni əldə etmək üçün həyata keçirilən fəaliyyət ardıcıllığının məcmusu.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "protokol",
+            "title": "Protokol",
+            "description": "Danışıqların və ya yoxlamaların nəticələrini əks etdirən və ya tərəflərin imzaladığı sənəd.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "pul",
+            "title": "Pul",
+            "description": "Hər yerdə mübadilə vasitəsi kimi işlənən aktiv; ayrı-ayrı malların, xidmətlərin və digər aktivlərin qiymətləndirilmə vasitəsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "ratifikasiya",
+            "title": "Ratifikasiya",
+            "description": "Ali dövlət hakimiyyətinin dövlətlərarası müqavilə və s. təsdiq etməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "rezident",
+            "title": "Rezident",
+            "description": "Aşağıda göstərilən tələblərin birinə cavab verən istənilən fiziki şəxs:\\n- təqvim ilində üst-üstə 182 gündən artıq vaxtda həqiqətən Azərbaycan Respublikasının ərazisində olan;\\n- təqvim ili içərisində, yaxud bir təqvim ili ərzində xarici ölkədə Azərbaycan Respublikasının dövlət xidmətində olan;\\n- VM-nin 13.2.5.1-ci maddəsinin ikinci və üçüncü abzaslarında Azərbaycan Respublikasının ərazisində və xarici ölkədə (hər hansı birində) fiziki şəxsin olma müddəti 182 gündən artıq olmadıqda, həmin fiziki şəxs aşağıdakı ardıcıllıqla göstərilən meyarlarla Azərbaycan Respublikasının rezidenti sayılır:\\ndaimi yaşayış yeri; həyati mənafelərinin mərkəzi;\\nadətən yaşadığı yer;\\nAzərbaycan Respublikasının vətəndaşlığı;\\n- fiziki şəxs vergi ilində Azərbaycan Respublikasının ərazisində qaldığı son gündən etibarən bu vergi ilinin sonunadək olan dövr ərzində Azərbaycan Respublikasının qeyri-rezidenti sayılır, bu şərtlə ki, həmin şəxs bilavasitə növbəti vergi ilində Azərbaycan Respublikasının qeyri-rezidenti olsun;\\n- Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq təsis edilən və sahibkarlıq fəaliyyətini həyata keçirən və ya Azərbaycan Respublikasında idarə edilən istənilən hüquqi şəxs.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "rüsum",
+            "title": "Rüsum",
+            "description": "Həm hüquqi, həm də fiziki şəxslərdən hüquqi əhəmiyyəti olan işlərin görülməsi üçün alınan vergi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "rotasiya",
+            "title": "Rotasiya",
+            "description": "Latın sözüdür; \"dairəvi hərəkət\", \"dövri dəyişmə\" deməkdir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "royalti",
+            "title": "Royalti",
+            "description": "Ədəbiyyat, incəsənət, yaxud elm əsərləri, proqram təminatı, kinematoqrafik filmlər və digər qeyri-maddi aktivlər üzərində müəllif hüquqlarından istifadə olunması, yaxud istifadə hüquqlarının verilməsinə görə, istənilən patentə, ticarət markasına, dizayn, yaxud modelə, plana, məxfi düstura, yaxud prosesə, sənaye, kommersiya, yaxud elmi təcrübəyə aid olan informasiyaya, sənaye, kommersiya və ya elmi avadanlıqdan istifadə, yaxud istifadə hüquqlarının verilməsinə görə mükafat şəklində alınan ödənişlərdir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "sahibkarlıq fəaliyyəti",
+            "title": "Sahibkarlıq fəaliyyəti",
+            "description": "Şəxsin müstəqil surətdə, öz riski ilə həyata keçirdiyi, əsas məqsədi əmlak istifadəsindən, malların təqdim edilməsindən, işlər görülməsindən və ya xidmətlər göstərilməsindən mənfəət götürülməsi olan fəaliyyətidir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "sanksiya",
+            "title": "Sanksiya",
+            "description": "Hər hansı qanun maddəsinin və hüquq normasının pozulmasına görə götürülən ölçü.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "satışdankənar gəlirlər",
+            "title": "Satışdankənar gəlirlər",
+            "description": "Digər müəssisələrin fəaliyyətində payçı kimi iştirakdan gəlir, müəssisəyə məxsus səhmlər, istiqrazlar və digər qiymətli kağızlardan əldə olunan gəlirlər, habelə mal və xidmət (iş) istehsalı və satışı ilə bilavasitə bağlı olmayan əməliyyatan götürülən digər gəlirlər, o cümlədən cərimə və zərərin ödənilməsi şəklində alınmış məbləğ, xarici valyuta əməliyyatları üzrə artan məzənnə fərqi, qanunvericiliyə müvafiq iddia müddəti keçmiş kreditor deponent borc məbləğləri.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "saziş",
+            "title": "Saziş",
+            "description": "Müqavilə; qarşılıqlı razılıq, anlaşma, həmrəylik.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "sərmayə",
+            "title": "Sərmayə",
+            "description": "Fiziki aktivlərin əldə edilməsi üçün sərf olunan kapital.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "səyyar yoxlama",
+            "title": "Səyyar yoxlama",
+            "description": "Yoxlanan obyektlərə getməklə orada aparılan yoxlama.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "sığorta",
+            "title": "Sığorta",
+            "description": "Əmlakın korlanması və ya oğurlanması, yaxud ğlüm və ya bədbəxt hadisə nəticəsində maliyyə itkilərindən qorunma üsulu.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "ssuda",
+            "title": "Ssuda",
+            "description": "Xüsusi maliyyə qurumları tərəfindən ayrıca şəxsə və ya müəssisəyə verilən borc.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "subpodratçı",
+            "title": "Subpodratçı",
+            "description": "Podrat üzrə işləyən təşkilatlara yaxın olan, lakin əsas olmayan podratçı.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "şəxs",
+            "title": "Şəxs",
+            "description": "İstənilən fiziki və ya hüquqi şəxs, qeyri-rezidentin daimi nümayəndəliyi, filialı və digər bölməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "şərti maliyyə vahidi",
+            "title": "Şərti maliyyə vahidi",
+            "description": "Qanunla müəyyən edilmiş məbləğ.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "tarif",
+            "title": "Tarif",
+            "description": "Rəsmən müəyyən edilmiş tədiyə, maaş, rüsum, vergi və s. cədvəli.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "tədiyə",
+            "title": "Tədiyə",
+            "description": "Ödəmə, ödəniş.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "təkamül",
+            "title": "Təkamül",
+            "description": "Tədrici inkişaf.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "təklif",
+            "title": "Təklif",
+            "description": "Firmaların satışa çıxardığı nemətin həcmi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "tələb",
+            "title": "Tələb",
+            "description": "Hər hansı neməti müəyyən məbləğdə pul ödəməklə əldə etmək arzusu.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "ticarət birjası",
+            "title": "Ticarət birjası",
+            "description": "Ticarətin və qiymətli kağızlar satışının birja vasitəsilə həyata keçirilməsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "valyuta",
+            "title": "Valyuta",
+            "description": "İqtisadi mübadilədə işlədilən pul vahidi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "valyuta böhranı (valyuta risqi)",
+            "title": "Valyuta böhranı (valyuta risqi)",
+            "description": "Pul-kredit sistemindəki böhranın mühüm təzahür forması. Bu böhran iqtisadiyyata ciddi təsir göstərir, cəmiyyətdə sosial gərginliyi artırır. Valyuta risqi ölkənin milli valyuta kursunu itirmək təhlükəsi ilə əlaqədardır. Buna xarici ticarət, valyuta əməliyyatları və kreditləşmə sahəsindəki, xarici valyuta kursundakı gözlənilməz dəyişikliklər təsir göstərir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "valyuta kursu",
+            "title": "Valyuta kursu",
+            "description": "Bir ölkənin pul vahidi qiymətinin digər ölkənin pul vahidi ilə ifadəsi. Valyuta kursu bir qayda olaraq valyutanın alıcılıq qabiliyyətindən asılı olaraq müəyyən edilir. Valyuta kursunun müəyyən edilməsi valyutanın kotirovkası adlanır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "valyuta sistemi",
+            "title": "Valyuta sistemi",
+            "description": "Pul-kredit münasibətlərinin toplusu. Valyuta sistemi dünya, beynəlxalq və milli valyuta sistemlərinə ayrılır. Dünya, Beynəlxalq valyuta sistemi milli iqtisadiyyatla fəaliyyət mübadiləsi əlaqələrində olur ki, bu da xarici ticarətlə bilavasitə bağlıdır.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "valyuta siyasəti",
+            "title": "Valyuta siyasəti",
+            "description": "Dövlət orqanlarının, mərkəzi bankların, maliyyə idarələrinin, beynəlxalq valyuta-maliyyə təşkilatlarının valyuta münasibətləri sahəsində həyata keçirdikləri tədbirlər sisteminin toplusu.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "valyutanın sərbəst konvertasiyası",
+            "title": "Valyutanın sərbəst konvertasiyası",
+            "description": "Milli pul vahidinin xarici valyutaya azad mübadilə olunma imkanlılığı.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "veksel",
+            "title": "Veksel",
+            "description": "Borclunun pul öhdəliyi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "verifikasiya",
+            "title": "Verifikasiya",
+            "description": "Ümumiyyətlə, həqiqiliyin, düzgünlüyün, o cümlədən proqramların müəyyən edilməsi, yoxlanması Müəyyən etmədə statistik və konstruktiv metodlardan istifadə edilir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "vergi",
+            "title": "Vergi",
+            "description": "Dövlətin və bələdiyyələrin fəaliyyətinin maliyyə təminatı məqsədi ilə vergi ödəyicilərinin mülkiyyətində olan pul vəsaitlərinin özgəninkiləşdirilməsi şəklində dövlət büdcəsinə və yerli büdcələrə köçürülən məcburi, fərdi, əvəzsiz ödənişdir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "vergi agenti",
+            "title": "Vergi agenti",
+            "description": "Vergi ödəyicisinin adından vergilərin hesablanmasını, ödənilməsini bilavasitə yerinə yetirən şəxs.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "vergi dərəcəsi",
+            "title": "Vergi dərəcəsi",
+            "description": "Vergitutma bazası vahidinə düşən verginin miqdarı.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "vergi dövrü",
+            "title": "Vergi dövrü",
+            "description": "Verginin ödəniləcəyi vaxt intervalı.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "vergitutma bazası",
+            "title": "Vergitutma bazası",
+            "description": "Vergitutma obyektinin vergi tutulan hissəsinin kəmiyyətcə ifadəsi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "vergitutma obyekti",
+            "title": "Vergitutma obyekti",
+            "description": "Gəlir, mənfəət, əmlak, torpaq, faydalı qazıntılar, malların dəyəri və s.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "vergi ödəyicisi",
+            "title": "Vergi ödəyicisi",
+            "description": "Vergi Məcəlləsi uyğun olaraq müəyyən edilmiş vergitutma obyektlərindən vergini ödəməli olan istənilən şəxs vergi ödəyicisi hesab edilir.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "vergi ödəyicisinin ailə üzvləri",
+            "title": "Vergi ödəyicisinin ailə üzvləri",
+            "description": "- ər-arvadlar;\\n- valideynlər, övladlar və övladlığa götürülmüş şəxslər;\\n- vərəsələr;\\n- doğma (ögey) bacılar (qardaşlar);\\n- bacı və qardaş övladları;\\n- ər-arvadların bacıları, qardaşları və valideynləri;\\n- bacıların ərləri və qardaşların arvadları;\\n- valideynlərin bacıları (qardaşları);\\n- qəyyumlar və qəyyumluğa götürülənlər, onların arasındakı ev təsərrüfatı birliyi nəticəsində biri o biri ilə valideyn və övlad kimi bağlı olduqda.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "vergi ödəyicisinin, alıcının, sifarişçinin və ya hər hansı şəxsin adı",
+            "title": "Vergi ödəyicisinin, alıcının, sifarişçinin və ya hər hansı şəxsin adı",
+            "description": "Hüquqi şəxsin dövlət qeydiyyatına alınmış adı, fiziki şəxsin adı, atasının adı və soyadı.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "volyuntarizm",
+            "title": "Volyuntarizm",
+            "description": "Siyasətdə, idarəetmədə obyektiv qanunların tələblərini inkar etmə, subyektiv özbaşınalığına yol vermə, anarxist avanturizmə meyl etmə, bazar ekstremizmi.",
+            "date": "2023-12-19T22:07:52.000Z",
+            "relatedTerms": [],
+            "tags": []
+        }
+    ]
+}

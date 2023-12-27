@@ -1,0 +1,1761 @@
+{
+    "meta": [
+        {
+            "title": "Tibbi terminlər lüğəti",
+            "description": "Tibbi terminlər lüğəti -Tibbi, Patoloji və laboratoriya təbabəti",
+            "sources": [
+                {
+                    "url": "https://www.mozocare.com/az/Yorumlar/l%C3%BC%C4%9F%C9%99t/",
+                    "title": "Tibbi terminlər lüğəti -Tibbi, Patoloji və laboratoriya təbabəti"
+                }
+            ]
+        }
+    ],
+    "tags": [
+        {
+            "title": "Adrenal",
+            "description": "Böyrəklərə bitişik olan bir və ya hər iki bezə aiddir. Bu bezlər adrenalin daxil olmaqla bir çox hormon ifraz edir və bədənin endokrin sistemində mühüm rol oynayır."
+        },
+        {
+            "title": "Anemiya",
+            "description": "Qırmızı qan hüceyrələrinin və ya hemoglobin (qanda oksigen daşıyan maddə) sayının qeyri-kafi olduğu vəziyyət."
+        },
+        {
+            "title": "Otoimmün",
+            "description": "Bədənin öz toxumasına qarşı reaksiya."
+        }
+    ],
+    "terms": [
+        {
+            "id": "Abell-Kendall_modifikasiyası",
+            "title": "Abell-Kendall modifikasiyası",
+            "description": "Drs tərəfindən hazırlanmış bir laboratoriya testinin dəyişdirilməsi. Abell və Kendall.",
+            "date": "2023-12-26T13:02:33.192Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Abruptio_plasentası",
+            "title": "Abruptio plasentası",
+            "description": "Hamiləliyin son trimestrində plasentanın uşaqlıqdan ayrılması.",
+            "date": "2023-12-26T13:02:57.060Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Absess",
+            "title": "Absess",
+            "description": "Şişkin, iltihablı, yumşaq infeksiya sahəsi irinlə doludur.",
+            "date": "2023-12-26T13:04:38.153Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "ACTH_(Adrenokortikotropik_hormon)",
+            "title": "ACTH (Adrenokortikotropik hormon)",
+            "description": "Hipofiz bezi tərəfindən istehsal olunan hormon. Kortizon və kortizol da daxil olmaqla istehsal etdikləri hormonları ifraz etmək üçün adrenal bezləri stimullaşdırır.",
+            "date": "2023-12-26T13:00:44.498Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "ACTH_(Adrenokortikotropik_hormon)_çatışmazlığı",
+            "title": "ACTH (Adrenokortikotropik hormon) çatışmazlığı",
+            "description": "Hipofiz bezi tərəfindən istehsal olunan çox az ACTH; tez-tez bir hipofiz şişinin nəticəsidir. Semptomlara zəiflik, yorğunluq və mədə-bağırsaq xəstəlikləri daxildir.Həmçinin bax: ACTH (Adrenokortikotropik hormon)",
+            "date": "2023-12-26T13:01:28.335Z",
+            "relatedTerms": [
+                {
+                    "id": "ACTH_(Adrenokortikotropik_hormon)",
+                    "title": "ACTH (Adrenokortikotropik hormon)"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Addison_xəstəliyi_(Adrenal_çatışmazlıq)_(Adrenal)",
+            "title": "Addison xəstəliyi (Adrenal çatışmazlıq) (Adrenal)",
+            "description": "Adrenal İnaktiv və ya qeyri-aktiv böyrəküstü vəzlərin yaratdığı vəziyyət. Semptomlara zəiflik, aşağı qan təzyiqi, davranış dəyişiklikləri, qarın ağrısı, ishal, iştahsızlıq və qəhvəyi dəri daxildir.Həmçinin bax: Adrenal",
+            "date": "2023-12-26T14:21:56.410Z",
+            "relatedTerms": [
+                {
+                    "id": "Adrenal",
+                    "title": "Adrenal"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Adrenal"
+                }
+            ]
+        },
+        {
+            "id": "Adenokarsinoma",
+            "title": "Adenokarsinoma",
+            "description": "Bir vəzin və ya vəzi toxumasının xərçəngli şişlərinin böyük bir qrupundan hər hansı biri.",
+            "date": "2023-12-26T13:16:42.052Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Adenoma",
+            "title": "Adenoma",
+            "description": "Glandular hüceyrələrin xoşxassəli şişi. Təsirə məruz qalan vəzdən artıq hormon ifrazına səbəb ola bilər.",
+            "date": "2023-12-26T13:16:59.101Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Adrenal",
+            "title": "Adrenal",
+            "description": "Adrenal Böyrəklərə bitişik olan bir və ya hər iki bezə aiddir. Bu bezlər adrenalin daxil olmaqla bir çox hormon ifraz edir və bədənin endokrin sistemində mühüm rol oynayır.",
+            "date": "2023-12-26T14:17:27.958Z",
+            "relatedTerms": [],
+            "tags": [
+                {
+                    "title": "Adrenal"
+                }
+            ]
+        },
+        {
+            "id": "Adrenokortikal_hiperplazi",
+            "title": "Adrenokortikal hiperplazi",
+            "description": "Adrenal korteks hüceyrələrinin sayında artım. Adrenal korteks kortizol, androgen və aldosteron ifraz edir. Bu hormonların hər hansı birinin və ya hamısının artan istehsalı, Cushing sindromu və hipertoniya kimi müxtəlif xəstəliklərə səbəb ola bilər.Həmçinin bax: Korteks (Adrenal), Adrenal",
+            "date": "2023-12-26T13:23:12.058Z",
+            "relatedTerms": [
+                {
+                    "id": "Korteks_(Adrenal)",
+                    "title": "Korteks (Adrenal)"
+                },
+                {
+                    "id": "Adrenal",
+                    "title": "Adrenal"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Adrenoleukodistrofiya",
+            "title": "Adrenoleukodistrofiya",
+            "description": "Böyrəküstü vəzin anormal fəaliyyətindən qaynaqlanan beyin maddəsində narahatlıq.",
+            "date": "2023-12-26T13:24:42.960Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Aferez",
+            "title": "Aferez",
+            "description": "xəstədən qan götürülərək xüsusi bir maşın vasitəsilə göndərilən (hüceyrələrin ayrıldığı və bəzilərinin çıxarıldığı) və qalan hissə xəstəyə qaytarıldığı qan ayırma proseduru",
+            "date": "2023-12-27T06:53:06.632Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Aglutinasiya",
+            "title": "Aglutinasiya",
+            "description": "Bir yerə yığışmaq.",
+            "date": "2023-12-26T13:25:14.185Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Ahaptoglobulinemiya",
+            "title": "Ahaptoglobulinemiya",
+            "description": "Qanda haptoglobin olmadan. Vəziyyət tez-tez hemolitik anemiya, ağır qaraciyər xəstəliyi və yoluxucu mononükleoz ilə müşahidə olunur. Anemiya, hemolitik yoluxucu mononükleoz.Həmçinin bax: Anemiya, Hemolitik (Anemiya)",
+            "date": "2023-12-26T13:28:59.658Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                },
+                {
+                    "id": "Hemolitik_(Anemiya)",
+                    "title": "Hemolitik (Anemiya)"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Akromeqaliya",
+            "title": "Akromeqaliya",
+            "description": "Orta yaşlı insanları narahat edən vəziyyət. Üz, çənə və ekstremitələrin sümüklərinin tədricən, nəzərəçarpacaq dərəcədə genişlənməsi ilə xarakterizə olunur. Hipofiz bezi tərəfindən böyümə hormonunun çox istehsalına səbəb olur.",
+            "date": "2023-12-26T13:09:30.759Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Aldosteronizm,_əsas",
+            "title": "Aldosteronizm, əsas",
+            "description": "Böyrəküstü vəzlər tərəfindən ifraz olunan aldosteronun həddindən artıq istehsalı. Adrenal hiperplaziya (adrenal hüceyrələrin sayının artması) və ya böyrəküstü vəzin şişi (Conn sindromu) səbəb olur. Semptomlar arasında hipertoniya, əzələ zəifliyi və ya kramp, böyrək xəstəliyi və anormal ürək ritmi ola bilər.Həmçinin bax: Adrenal, Hiperplaziya (Adrenal)",
+            "date": "2023-12-26T13:30:28.017Z",
+            "relatedTerms": [
+                {
+                    "id": "Adrenal",
+                    "title": "Adrenal"
+                },
+                {
+                    "id": "Hiperplaziya_(Adrenal)",
+                    "title": "Hiperplaziya (Adrenal)"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Alkaloz,_metabolik",
+            "title": "Alkaloz, metabolik",
+            "description": "Bədən mayelərinin normadan daha qələvi olduğu anormal vəziyyət. Uzun müddətli qusma və ya bikarbonatın həddindən artıq qəbulu nəticəsində turşu itkisi ilə nəticələnə bilər.",
+            "date": "2023-12-26T13:30:51.013Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Alkaloz,_tənəffüs",
+            "title": "Alkaloz, tənəffüs",
+            "description": "Qarın ağrısı, ishal, iştahsızlıq və dəri qəhvəyi. Bədən mayeləri normaldan daha qələvi olduqda anormal vəziyyət. Çox sürətli nəfəs alma və ya ürək çatışmazlığı kimi qanda karbon dioksid səviyyəsini azaldan şərtlər səbəb olur.Həmçinin bax: Konjestif ürək çatışmazlığı",
+            "date": "2023-12-26T13:31:34.015Z",
+            "relatedTerms": [
+                {
+                    "id": "Konjestif_ürək_çatışmazlığı",
+                    "title": "Konjestif ürək çatışmazlığı"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Alkoqol_kardiomiopatiyası",
+            "title": "Alkoqol kardiomiopatiyası",
+            "description": "Xroniki alkoqolizm səbəbindən ürəyin miyokard (əzələ qatı) xəstəliyi. Ürəyin böyüməsi ilə nəticələnir. Ürək əzələsi zəifləyir və qanı effektiv pompalaya bilmir.",
+            "date": "2023-12-26T13:29:19.980Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Alkoqollu_polimiopatiya",
+            "title": "Alkoqollu polimiopatiya",
+            "description": "Eyni anda bir neçə əzələni təsir edən xəstəlik. Alkoqolizmdən qaynaqlanır.",
+            "date": "2023-12-26T13:29:37.546Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Allogeneik_Nəqli",
+            "title": "Allogeneik Nəqli",
+            "description": "Alıcı ilə genetik uyğunluq olan sümük iliyi olan insan donorundan istifadə edərək nəql.",
+            "date": "2023-12-26T13:31:53.795Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Alveolyar_ödem",
+            "title": "Alveolyar ödem",
+            "description": "Bronxial boruların (alveolaların) ən kiçik filiallarının şişməsi.",
+            "date": "2023-12-26T13:32:15.056Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Ambliyopiya",
+            "title": "Ambliyopiya",
+            "description": "Oftalmoskopla müayinə edildikdə normal görünən bir gözdə görmə azaldı (gözün daxili hissəsini araşdırmaq üçün istifadə olunan bir vasitə). Bəzən strabismus ilə əlaqələndirilir. Bəzi toksinlərdən də yarana bilər.",
+            "date": "2023-12-26T13:33:14.147Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Amenore",
+            "title": "Amenore",
+            "description": "İki kateqoriyalı amenore var. Birincili amenoreyada, yetkinlik yaşına çatmış və ən az 16 yaşında olan bir gənc qadında menstruasiya başlamamışdır. Səbəb ümumiyyətlə bilinmir. Mümkün səbəblər arasında yemək pozğunluqları, psixoloji pozğunluqlar, endokrin xəstəliklər, qadın orqanlarının olmadığı və ya anormal şəkildə əmələ gəldiyi anadangəlmə anormallıq və ya çox gərgin atletik fəaliyyətlərdə iştirak ola bilər. İkincili amenoreyada, əvvəllər aybaşı olan bir qadında ən az 3 ay müddətində menstruasiya dayandırılır. Səbəblərə hamiləlik, ana südü ilə qidalanma, qidalanma pozğunluqları, endokrin xəstəliklər, psixoloji pozğunluqlar, menopoz (ümumiyyətlə 35 yaş və ya daha yuxarı), uşaqlıq və ya yumurtalıqların cərrahi yolla çıxarılması və ya çox gərgin idman fəaliyyəti daxildir.",
+            "date": "2023-12-26T13:33:43.620Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Amiloid",
+            "title": "Amiloid",
+            "description": "Nişastalı maddə.",
+            "date": "2023-12-26T13:34:59.957Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Amiloidoz",
+            "title": "Amiloidoz",
+            "description": "Bir mum, nişasta kimi, şəffaf bir maddənin toxumalarda və orqanlarında toplandığı və funksiyasını pozduğu xəstəlik. Səbəb məlum deyil və hazırda müalicə olunmur. Böyrəklər qarışırsa, böyrək diyalizi və ya böyrək nəqli müalicənin bir hissəsi ola bilər.",
+            "date": "2023-12-26T14:00:42.650Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Amin",
+            "title": "Amin",
+            "description": "Tərkibində azot olan üzvi kimyəvi birləşmə.",
+            "date": "2023-12-26T13:34:00.807Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Amin_turşuları",
+            "title": "Amin turşuları",
+            "description": "Üzvi kimyəvi birləşmələr. Bütün zülalların əsas komponentləridir. Bədəndə ən az 20 amin turşusu var; 10 vacibdir. Bədən bu turşuları yaratmır və meydana gətirmir, buna görə də pəhriz yolu ilə əldə edilməlidir.Həmçinin bax: Amin",
+            "date": "2023-12-26T13:34:26.843Z",
+            "relatedTerms": [
+                {
+                    "id": "Amin",
+                    "title": "Amin"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Amiotrofik_yanal_skleroz_(ALS)",
+            "title": "Amiotrofik yanal skleroz (ALS)",
+            "description": "Onurğa beyni hüceyrələrinin mütərəqqi sıradan çıxması, əzələ funksiyasının tədricən itirilməsi ilə nəticələnir. Yoluxucu və ya xərçəng deyil.",
+            "date": "2023-12-26T14:00:59.650Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anafilaksi_(Allergik_şok)",
+            "title": "Anafilaksi (Allergik şok)",
+            "description": "Dərmanlara və ya digər allergiyaya səbəb olan maddələrə şiddətli, həyati təhlükəli allergik reaksiya.",
+            "date": "2023-12-26T14:01:15.341Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Andrenogenital_sindrom",
+            "title": "Andrenogenital sindrom",
+            "description": "Adrenokortikal hiperplaziya nəticəsində yaranan endokrin xəstəlik. Normal miqdarda kortizoldan az və normaldan daha çox androgen istehsal olunur. Bu, oğlanlarda erkən yetkinlik, qızlarda xarici cinsiyyət orqanlarının kişiləşməsi ilə nəticələnir. Ümumiyyətlə anadangəlmə bir xəstəlikdir.Həmçinin bax: Adrenal, Hiperplaziya (Adrenal)",
+            "date": "2023-12-26T14:02:15.775Z",
+            "relatedTerms": [
+                {
+                    "id": "Adrenal",
+                    "title": "Adrenal"
+                },
+                {
+                    "id": "Hiperplaziya_(Adrenal)",
+                    "title": "Hiperplaziya (Adrenal)"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Androgenik_arenoblastoma",
+            "title": "Androgenik arenoblastoma",
+            "description": "Hüceyrələrin kişi testislərindəki hüceyrələrə bənzədiyi yumurtalıq şişi; kişi cinsi hormonunu ifraz edirlər. Qadında kişilərin ikincil cinsi xüsusiyyətlərinin, hırıltılı, dərin səs, həddindən artıq bədən tükləri və genişlənmiş klitoris kimi görünməsinə səbəb olur.",
+            "date": "2023-12-26T14:01:39.750Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anemiya",
+            "title": "Anemiya",
+            "description": "Anemiya Qırmızı qan hüceyrələrinin və ya hemoglobin (qanda oksigen daşıyan maddə) sayının qeyri-kafi olduğu vəziyyət.",
+            "date": "2023-12-26T14:22:58.037Z",
+            "relatedTerms": [],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Anensefaliya",
+            "title": "Anensefaliya",
+            "description": "Beynin olmaması.",
+            "date": "2023-12-26T14:34:54.875Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Aneuploidiya",
+            "title": "Aneuploidiya",
+            "description": "Bütün xromosom dəstlərini deyil, fərdi xromosomları əhatə edən xromosom sayında hər hansı bir dəyişiklik. Turner sindromunda olduğu kimi daha az xromosom və ya Down sindromunda olduğu kimi daha çox xromosom ola bilər. Turner sindromuna baxın; Down sindromu. Anormal əlamətlər, hansı xromosom dəstinə aid olduğuna görə dəyişir.",
+            "date": "2023-12-26T14:35:13.565Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anevrizma",
+            "title": "Anevrizma",
+            "description": "Arteriyanın anormal genişlənməsi və ya balonlaşdırılması. Zəif bir arteriya divarına səbəb olur.",
+            "date": "2023-12-26T14:35:40.997Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Angina_(Angina_pectoris)",
+            "title": "Angina (Angina pectoris)",
+            "description": "Sinə ağrısı və ya təzyiq ümumiyyətlə sternumun altından (döş sümüyü). Ürəyə qeyri-kafi qan tədarükü səbəb olur. Tez-tez ürək xəstəliyi olan birində idman, emosional narahatlıq və ya ağır yemək ilə gətirilir.",
+            "date": "2023-12-26T14:36:01.347Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anion_boşluğu",
+            "title": "Anion boşluğu",
+            "description": "Natrium, xlorid və bikarbonatın laboratoriya analizini birləşdirərək ölçün. Sürətli, qeyri-invaziv hesablama.",
+            "date": "2023-12-26T14:39:18.461Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anjiodisplazi",
+            "title": "Anjiodisplazi",
+            "description": "Kiçik qan damar anomaliyaları.",
+            "date": "2023-12-26T14:38:28.414Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anjiyom",
+            "title": "Anjiyom",
+            "description": "Qan damarları və ya limfa damarlarından ibarət xoşxassəli şiş. Əksəriyyəti anadangəlmədir.",
+            "date": "2023-12-26T14:39:03.105Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anjiyoödem_(Angionevrotik_ödem;_ürtiker)",
+            "title": "Anjiyoödem (Angionevrotik ödem; ürtiker)",
+            "description": "Allergik xəstəlik, yüksək yerlərdə dəri dəyişiklikləri, qızartı və qaşınma ilə xarakterizə olunur.",
+            "date": "2023-12-26T14:38:47.624Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Ankilozan_spondilit",
+            "title": "Ankilozan spondilit",
+            "description": "İltihab və sərtlik ilə müşayiət olunan oynaqların xroniki, mütərəqqi xəstəliyi. Onurğa və dayaq strukturlarının sərtləşməsindən qaynaqlanan BENT-FORWARD duruşu ilə xarakterizə olunur. Səbəb bilinmir, ancaq genetik dəyişikliklər və ya otoimmün bir xəstəliklə əlaqəli ola bilər. Semptomlar aradan qaldırıla və ya nəzarət altına alına bilsə də, hazırda müalicəedilməz sayılır. İzahsız bərpa vəziyyətləri var.",
+            "date": "2023-12-26T14:39:40.461Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anoreksiya",
+            "title": "Anoreksiya",
+            "description": "İştahsızlıq",
+            "date": "2023-12-26T14:40:08.791Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anoreksiya_nervoza",
+            "title": "Anoreksiya nervoza",
+            "description": "Əsasən gənc qadınlarda son dərəcə mürəkkəb şəxsiyyət pozğunluğu, qidaya nifrət, kilo itkisi və digər müxtəlif simptomlarla xarakterizə olunur.",
+            "date": "2023-12-26T14:40:26.505Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anorektal_abses",
+            "title": "Anorektal abses",
+            "description": "Rektumda (yoğun bağırsağın son seqmenti) və anusda (rektumun bədən səthində açılması) meydana gələn abses.",
+            "date": "2023-12-26T14:39:55.732Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anovulyasiya",
+            "title": "Anovulyasiya",
+            "description": "Yumurtalıqların yumurta istehsal etməməsi, yetkinləşməməsi və ya sərbəst buraxılması. Antikorlar - Xəstəlik mənbələrini təsirsiz hala gətirmək və ya məhv etmək üçün immunitet sistemi tərəfindən qan və bədən toxumalarında yaradılan zülallar.",
+            "date": "2023-12-26T14:40:42.963Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Antibiotiklər",
+            "title": "Antibiotiklər",
+            "description": "infeksiyaların qarşısını almaq və ya müalicə etmək üçün istifadə olunan bir qrup dərman.",
+            "date": "2023-12-26T14:40:57.056Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Antigenlər",
+            "title": "Antigenlər",
+            "description": "Bədəndə antikor meydana gəlməsini stimullaşdıran xarici bir maddə (immunitet sistemi tərəfindən istehsal olunur) zərərsizləşdirilir və ya məhv edilir.Həmçinin bax: Antikor",
+            "date": "2023-12-26T14:41:34.581Z",
+            "relatedTerms": [
+                {
+                    "id": "Antikor",
+                    "title": "Antikor"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Antikor",
+            "title": "Antikor",
+            "description": "bədənin bakteriyalar, göbələklər və viruslar kimi bədəndəki xarici maddələrlə (antigenlərlə) mübarizə aparmasına kömək edən bir protein.",
+            "date": "2023-12-26T14:41:11.464Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anti-lipemik",
+            "title": "Anti-lipemik",
+            "description": "Qandakı yağ və ya yağa bənzər maddələrin (lipidlərin) miqdarını azaldan rejim, pəhriz, agent və ya dərmanla əlaqəli.",
+            "date": "2023-12-27T06:47:39.370Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Anti-lipemik_(Anti-lipidemik)",
+            "title": "Anti-lipemik (Anti-lipidemik)",
+            "description": "Qandakı yağ və ya yağa bənzər maddələrin (lipidlərin) miqdarını azaldan rejim, pəhriz, agent və ya dərmanla əlaqəli.",
+            "date": "2023-12-26T14:42:02.834Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Antinuclear_antikor_(ANA)",
+            "title": "Antinuclear antikor (ANA)",
+            "description": "Otoimmün Qanda bir otoimmün xəstəliyin olduğunu göstərən maddəHəmçinin bax: Otoimmün (Otoimmün)",
+            "date": "2023-12-27T06:49:57.554Z",
+            "relatedTerms": [
+                {
+                    "id": "Otoimmün_(Otoimmün)",
+                    "title": "Otoimmün (Otoimmün)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Otoimmün"
+                }
+            ]
+        },
+        {
+            "id": "Aorta-qapaq_darlığı",
+            "title": "Aorta-qapaq darlığı",
+            "description": "Qapağın konjenital malformasiyası və ya revmatik ateş kimi qapaq seqmentlərinin birləşdirilməsi səbəbindən aorta qapağının daralması və ya daralması ilə xarakterizə olunan ürək anormalliyi. Bu, ürəkdən aortaya qan axınının tıxanması ilə nəticələnir; ürək effektiv pompalamaz. Xəstəliyin əlamətlərinə idmana qarşı dözümsüzlük, ürək ağrısı və ürək səsləri daxildir. Müalicə ümumiyyətlə qüsurlu qapağı düzəltmək üçün əməliyyatı əhatə edir.Həmçinin bax: Revmatik atəş",
+            "date": "2023-12-27T06:52:32.291Z",
+            "relatedTerms": [
+                {
+                    "id": "Revmatik_atəş",
+                    "title": "Revmatik atəş"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Aortoiliak_oklüziv_xəstəlik",
+            "title": "Aortoiliak oklüziv xəstəlik",
+            "description": "Aortanın alt hissəsinin qıç səviyyəsində, ayağa girərkən tam və ya qismən tıxanması.",
+            "date": "2023-12-27T06:52:51.351Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Apandisit",
+            "title": "Apandisit",
+            "description": "Vermiform əlavənin iltihabı (yoğun bağırsağın birinci hissəsindən uzanan kiçik boru). Hər il 1 nəfərdən birini təsir edir. Semptomlara sağ alt qarın ağrısı, ürək bulanması, qusma, qəbizlik və ya ishal və ateş daxil ola bilər. Müalicə, əlavənin operativ cərrahi yolla çıxarılmasını əhatə edir. Əməliyyatdakı gecikmə ümumiyyətlə apendiks və peritonitin qırılması ilə nəticələnir ki, bu da ölümcül ola bilər.",
+            "date": "2023-12-27T06:54:05.109Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Aplastik_anemiya",
+            "title": "Aplastik anemiya",
+            "description": "Sümük iliyinin qırmızı qan hüceyrələri, ağ qan hüceyrələri və trombositlər istehsalında əskik olduğu bir qan xəstəliyi.",
+            "date": "2023-12-27T06:53:28.020Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Aplastik_(Anemiya)",
+            "title": "Aplastik (Anemiya)",
+            "description": "Anemiya Bütün qan hüceyrələrinin sümük iliyi istehsalının azalması ilə xarakterizə olunan ciddi xəstəlik. Semptomlar solğunluq, zəiflik, tez-tez infeksiya, burundan, ağızdan, diş ətindən, vajinadan, rektumdan, beyindən və digər yerlərdən spontan qanaxma, açıqlanmayan çürüklər, ağızda, boğazda və ya rektumda xoralar ola bilər. Sümük iliyindəki xəstəlik və ya sümük iliyinin məhv olması səbəb ola bilər\nmüəyyən kimyəvi maddələrə, xərçəng əleyhinə dərmanlara, immunosupressiv dərmanlara və ya antibiotiklərə məruz qalma. Səbəbi bəzən bilinmir. Səbəb müəyyənləşdirilərsə və uğurla müalicə edilə bilsə müalicə edilə bilər. Müalicəyə reaksiya zəifdirsə, idarəolunmaz infeksiyaların və qanaxmaların fəsadları ölümcül ola bilər.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:23:34.477Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Apne",
+            "title": "Apne",
+            "description": "Kortəbii tənəffüsün olmaması.",
+            "date": "2023-12-27T06:53:45.215Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Araxnoidit",
+            "title": "Araxnoidit",
+            "description": "Araxnoid membranın iltihabı, beyin və onurğa beyni əhatə edən nazik, incə bir membran.",
+            "date": "2023-12-27T06:54:26.059Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Arginosuccinic_aciduria",
+            "title": "Arginosuccinic aciduria",
+            "description": "Sidikdə arginosuccinic turşusunun olması. Bu, metabolizmanın anadangəlmə səhvidir və zehni geriliyə səbəb olur.",
+            "date": "2023-12-27T06:54:41.807Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Aritmiyalar",
+            "title": "Aritmiyalar",
+            "description": "Ürək döyüntüsü ritmində təsadüfi və ya daimi anormallıqlar.",
+            "date": "2023-12-27T06:54:58.235Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Arterial-oklüziv_xəstəlik",
+            "title": "Arterial-oklüziv xəstəlik",
+            "description": "Hər hansı bir böyük arteriyanın ümumi və ya qismən tıxanması.",
+            "date": "2023-12-27T06:55:14.083Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Arterioskleroz",
+            "title": "Arterioskleroz",
+            "description": "Qalınlaşma, elastiklik itkisi və arteriya divarlarının kalsifikasiyası ilə xarakterizə olunan damarların ümumi pozğunluğu. Beyinə və alt ekstremitələrə qan tədarükünün azalması ilə nəticələnir. Tipik əlamətlərə gəzinti zamanı ağrı, ayaq və ayaqlarda zəif qan dövranı, baş ağrısı, başgicəllənmə və yaddaş qüsurları daxildir. Vəziyyət tez-tez yaşlanma ilə və ya nefroskleroz, skleroderma, diabet və hiperlipidemiya ilə inkişaf edir. nefroskleroz; skleroderma.",
+            "date": "2023-12-27T06:55:36.489Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Arteriovenöz_nasazlıq",
+            "title": "Arteriovenöz nasazlıq",
+            "description": "Damar səviyyəsində arteriya və damar qovşağında problem.",
+            "date": "2023-12-27T06:55:55.183Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Artrit",
+            "title": "Artrit",
+            "description": "Ağrı və şişkinlik ilə xarakterizə olunan oynaqların iltihablı vəziyyətiHəmçinin bax: Romatoid artrit",
+            "date": "2023-12-27T06:58:08.875Z",
+            "relatedTerms": [
+                {
+                    "id": "Romatoid_artrit",
+                    "title": "Romatoid artrit"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Ascites",
+            "title": "Ascites",
+            "description": "Qarın boşluğunda seroz mayenin yığılması. Tərkibində çox miqdarda protein və elektrolit var. Siroz, konjestif ürək çatışmazlığı, nefroz, xərçəng, peritonit və ya müxtəlif göbələk və parazitar xəstəliklərin bir komplikasiyası ola bilər. konjestif ürək çatışmazlığı; nefroz; xərçəng; peritonit.Həmçinin bax: Siroz",
+            "date": "2023-12-27T07:00:06.405Z",
+            "relatedTerms": [
+                {
+                    "id": "Siroz",
+                    "title": "Siroz"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Asfiksiya",
+            "title": "Asfiksiya",
+            "description": "Qanda çox az oksigen və çox miqdarda karbon dioksid olduğundan şüur ​​itkisi. Düzəldilmədiyi təqdirdə ölümlə nəticələnir.",
+            "date": "2023-12-27T07:00:25.446Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Asidoz",
+            "title": "Asidoz",
+            "description": "Bədəndə həddindən artıq turşu yığılması nəticəsində yaranan patoloji vəziyyət.",
+            "date": "2023-12-26T13:05:30.193Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Asidoz,_metabolik",
+            "title": "Asidoz, metabolik",
+            "description": "Baza itkisinə görə bədəndə çox miqdarda turşu var.Həmçinin bax: Asidoz",
+            "date": "2023-12-26T13:08:47.342Z",
+            "relatedTerms": [
+                {
+                    "id": "Asidoz",
+                    "title": "Asidoz"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Asidoz,_tənəffüs",
+            "title": "Asidoz, tənəffüs",
+            "description": "Artıq karbon dioksid yığılmasına görə bədəndə çox miqdarda turşu var.",
+            "date": "2023-12-26T13:09:06.400Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Aspirasiya_(ilik)",
+            "title": "Aspirasiya (ilik)",
+            "description": "iliyin iri sümüklərdəki boşluqlardan iynə ilə çəkilərək çıxarılması.",
+            "date": "2023-12-27T07:00:42.924Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Astiqmatizm",
+            "title": "Astiqmatizm",
+            "description": "Anormal göz formasının yaratdığı görmə pozğunluğu.",
+            "date": "2023-12-27T07:01:08.259Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Astma",
+            "title": "Astma",
+            "description": "Təkrarlanan xırıltılı hücumlar və nəfəs darlığı ilə xroniki xəstəlik.",
+            "date": "2023-12-27T07:00:55.551Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Astrositomalar",
+            "title": "Astrositomalar",
+            "description": "Beyin şişi, sinir hüceyrələrindən (sinir sistemini təşkil edən iki əsas hüceyrədən biri) ibarətdir. Ümumiyyətlə yavaşca böyüyür, lakin çox vaxt glioblastoma adlanan yüksək dərəcədə bədxassəli bir şiş astrositoma daxilində inkişaf edir. Bir astrositomanın cərrahi yolla tamamilə çıxarılması şişin inkişafının əvvəllərində mümkün ola bilər, lakin ətrafdakı toxumaları zəbt etdikdən sonra deyil.",
+            "date": "2023-12-27T07:01:30.691Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Ataksiya-telangiektazi",
+            "title": "Ataksiya-telangiektazi",
+            "description": "Erkən uşaqlıqdan başlayan ağır, irsi, mütərəqqi xəstəlik. Göz və dərinin bir qrup kiçik qan damarlarının (telangiektazi) genişlənməsi ilə əmələ gələn qan damarının zədələnməsi, əzələlərin koordinasiya etməməsi (ataksiya), o cümlədən anormal göz hərəkətləri və immun çatışmazlığı ilə nəticələnir. Bu, ehtimal ki, infeksiyalara qarşı həssaslığın artmasına səbəb olur. Ümumiyyətlə qısaldılmış ömür ilə nəticələnir.",
+            "date": "2023-12-27T07:01:51.841Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Atopik_dermatit",
+            "title": "Atopik dermatit",
+            "description": "Dərinin xroniki iltihabi xəstəliyi; tez-tez astma və ya saman atəşi kimi tənəffüs sistemini təsir edən digər allergik xəstəliklərlə əlaqələndirilir. Səbəb bilinmir, ancaq irsi və ya immunitet çatışmazlığı xəstəliyi ola bilər. Semptomlar arasında dəri qırışlarında qaşınma səfehləri, təsirlənmiş bölgələrdə quru, qalınlaşmış dəri, nəzarətsiz cızılmalar və güclü qaşınma səbəbiylə yuxu itkisindən yorğunluq var. Alovlar və remissiyalar ömür boyu baş verə bilər. Müalicə rahatlaşdıra bilər.Həmçinin bax: Astma",
+            "date": "2023-12-27T07:02:30.145Z",
+            "relatedTerms": [
+                {
+                    "id": "Astma",
+                    "title": "Astma"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Atria",
+            "title": "Atria",
+            "description": "Otaq başqa bir quruluşa girməyə imkan verir. Ümumiyyətlə ürəyin ATRİA-ya aiddir ki, bu da qanın mədəciklər adlanan ürəyin daha böyük otaqlarına keçməsini təmin edir.",
+            "date": "2023-12-27T07:02:48.777Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Atrial_fibrilasyon",
+            "title": "Atrial fibrilasyon",
+            "description": "Tamamilə qeyri-müntəzəm ürək döyüntüsü ritmi. Bu vəziyyətdə ürəyin üst otaqlarında meydana gəlir. Bəzən heç bir simptom göstərmir. Bəzən insan zəif, baş gicəllənə bilər və ya huşunu itirir. Çox vaxt normal bir ürək ritmi dərman və ya elektrik şoku (elektro kardioversiya) ilə bərpa edilə bilər.",
+            "date": "2023-12-27T07:03:10.683Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Atrofiya",
+            "title": "Atrofiya",
+            "description": "Boşa getmək; bir hüceyrə, toxuma, orqan və ya hissə kimi ölçüdə azalma. Xəstəlik, istifadə çatışmazlığı, yaşlanma və ya digər təsirlər nəticəsində yarana bilər.",
+            "date": "2023-12-27T07:03:27.031Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Axalasiya",
+            "title": "Axalasiya",
+            "description": "Normal udmanı pozan yemək borusunun vəziyyəti.",
+            "date": "2023-12-26T13:04:51.936Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Birmənalı_olmayan_cinsiyyət_orqanı",
+            "title": "Birmənalı olmayan cinsiyyət orqanı",
+            "description": "Cinsiyyət üçün normal olmayan xarici cinsiyyət orqanları.",
+            "date": "2023-12-26T13:32:43.336Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Diabet_insipidus",
+            "title": "Diabet insipidus",
+            "description": "[Needs updating]",
+            "date": "2023-12-27T07:35:55.088Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Disertropoetik_(Anemiya)",
+            "title": "Disertropoetik (Anemiya)",
+            "description": "Anemiya Bədənin qırmızı qan hüceyrələri istehsal etmək qabiliyyətini azaldan bir narahatlıq səbəb olduğu hər hansı bir anemiya.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:24:27.870Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Dəmir_çatışmazlığı_(Anemiya)",
+            "title": "Dəmir çatışmazlığı (Anemiya)",
+            "description": "Anemiya Qan dövran edən qırmızı qan hüceyrələrinin sayının azalması və ya hüceyrələrdə çatışmaz hemoglobin. Qeyri-kafi dəmir təchizatı səbəb olur.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:25:03.019Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Göy_öskürək",
+            "title": "Göy öskürək",
+            "description": "Uşaqlarda ən çox rast gəlinən bronxial boruların və ağciyərlərin ciddi, yoluxucu, bakterial infeksiyası.",
+            "date": "2023-12-27T07:40:23.456Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Grave",
+            "title": "Grave",
+            "description": "[Needs updating]",
+            "date": "2023-12-27T07:07:24.987Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Hemolitik_(Anemiya)",
+            "title": "Hemolitik (Anemiya)",
+            "description": "Anemiya Yetkin qırmızı qan hüceyrələrinin vaxtından əvvəl məhv olması səbəbindən anemiya. Sümük iliyi, məhv olanları kompensasiya edəcək qədər qırmızı qan hüceyrəsi istehsal edə bilməz.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:24:03.871Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Hemolitik_anemiya_(Otoimmün)",
+            "title": "Hemolitik anemiya (Otoimmün)",
+            "description": "Otoimmün Anemiya Bax: Anemiya, Otoimmün hemolitik (Anemiya)",
+            "date": "2023-12-27T07:06:25.168Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                },
+                {
+                    "id": "Otoimmün_hemolitik_(Anemiya)",
+                    "title": "Otoimmün hemolitik (Anemiya)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Otoimmün"
+                },
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Hidronefroz",
+            "title": "Hidronefroz",
+            "description": "[Needs updating]",
+            "date": "2023-12-27T07:29:37.964Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Hiperplaziya_(Adrenal)",
+            "title": "Hiperplaziya (Adrenal)",
+            "description": "Adrenal Böyrəküstü vəzdəki normal hüceyrələrin sayında anormal artım.Həmçinin bax: Adrenal",
+            "date": "2023-12-26T14:18:07.418Z",
+            "relatedTerms": [
+                {
+                    "id": "Adrenal",
+                    "title": "Adrenal"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Adrenal"
+                }
+            ]
+        },
+        {
+            "id": "Hipokromik_(Anemiya)",
+            "title": "Hipokromik (Anemiya)",
+            "description": "Anemiya Qırmızı qan hüceyrələrində azalmış hemoglobin konsentrasiyası ilə xarakterizə olunan böyük bir anemiya qrupundan hər hansı biri.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:25:23.306Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Hipoplastik_(Anemiya)",
+            "title": "Hipoplastik (Anemiya)",
+            "description": "Anemiya Qırmızı qan hüceyrələrinin sümük iliyi istehsalının azalması ilə xarakterizə olunan anemiya.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:25:41.773Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "İdiopatik_qazanılmış_hemolitik_(Anemiya)",
+            "title": "İdiopatik qazanılmış hemolitik (Anemiya)",
+            "description": "Anemiya Qırmızı qan hüceyrələrinin qısaldılmış ömrü ilə xarakterizə olunan anemiya. Səbəb bilinmir, ancaq irsi deyil.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:26:13.894Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Kimyoterapiya",
+            "title": "Kimyoterapiya",
+            "description": "Narkotik anormal (xərçəng) hüceyrələri məhv etməklə və ya xərçəngi müalicə etmək üçün istifadə olunur onların böyüməsini ləngidir.",
+            "date": "2023-12-27T07:10:34.009Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Kondisioner",
+            "title": "Kondisioner",
+            "description": "Kemoterapi dərmanlarının birləşməsi və bəzən radiasiya, bir neçə gün verilir\ntransplantasiyadan əvvəl xərçəng hüceyrələrini aradan qaldırmaq və immunitet sistemini məhv etmək.",
+            "date": "2023-12-27T07:25:34.041Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Konjestif_ürək_çatışmazlığı",
+            "title": "Konjestif ürək çatışmazlığı",
+            "description": "Ürəyin toxumaların metabolik ehtiyaclarını ödəyə bilməməsini əks etdirən klinik bir sindromdur. Ürəyin qanı periferiyaya adekvat nəql edə bilməməsi nəticəsində mədəciyin son diastolik təzyiqi və qulaqcığın təzyiqi yüksəlir və tıxanıqlıq yaranır.",
+            "date": "2023-12-26T13:14:52.517Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Konjuge_olmayan_bilirubin",
+            "title": "Konjuge olmayan bilirubin",
+            "description": "Plazma zülalları ilə sərbəst əlaqədə dövr edən bilirubinin yağda həll olunan forması. Dolayı bilirubin də adlanır.",
+            "date": "2023-12-27T07:27:26.771Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Korteks_(Adrenal)",
+            "title": "Korteks (Adrenal)",
+            "description": "Adrenal Böyrəküstü vəzin xarici təbəqəsi. Kortizon, estrogen, testosteron, kortizol, androgen, aldosteron və progesteron daxil olmaqla müxtəlif hormonları ifraz edir.Həmçinin bax: Adrenal",
+            "date": "2023-12-26T14:18:59.217Z",
+            "relatedTerms": [
+                {
+                    "id": "Adrenal",
+                    "title": "Adrenal"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Adrenal"
+                }
+            ]
+        },
+        {
+            "id": "ksantinlər",
+            "title": "ksantinlər",
+            "description": "Bronxial borular və ürək kimi beyin və hamar əzələləri stimullaşdıran dərmanlar sinfi. Bu dərman ailəsinə kofein, teofillin, aminofilin və başqaları daxildir.",
+            "date": "2023-12-27T07:42:16.562Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Kseroftalmiya",
+            "title": "Kseroftalmiya",
+            "description": "Göz qapaqlarının selikli qişasının və gözün və buynuz qişanın ağ hissəsinin anormal quruluğu və qalınlaşması. A vitamini çatışmazlığı və ya bəzi göz xəstəlikləri nəticəsində yaranır.",
+            "date": "2023-12-27T07:42:29.774Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Kəskin",
+            "title": "Kəskin",
+            "description": "Birdən başlayır. Ağır, lakin qısa müddətdir.",
+            "date": "2023-12-26T13:10:17.550Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Kəskin_ağciyər_ödemi",
+            "title": "Kəskin ağciyər ödemi",
+            "description": "Həddindən artıq nəfəs darlığı, sürətli nəfəs alma, narahatlıq, öskürək, dodaqlar və dırnaqlar mavimsi və tərləmə daxil olmaqla dramatik, həyati təhlükəli simptomlar. Ümumiyyətlə konjestif ürək çatışmazlığı səbəb olur.Həmçinin bax: Konjestif ürək çatışmazlığı",
+            "date": "2023-12-26T13:15:59.082Z",
+            "relatedTerms": [
+                {
+                    "id": "Konjestif_ürək_çatışmazlığı",
+                    "title": "Konjestif ürək çatışmazlığı"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Kəskin_aralıq_porfiriya_(AIP)",
+            "title": "Kəskin aralıq porfiriya (AIP)",
+            "description": "Porfirin metabolizması xəstəliyi. Semptomlara təkrarlanan qarın ağrısı hücumları, mədə-bağırsaq simptomları, nevroloji narahatlıqlar və sidikdə porfobilinogenin çox olması daxildir.",
+            "date": "2023-12-26T13:10:34.448Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Makrositik_(Anemiya)",
+            "title": "Makrositik (Anemiya)",
+            "description": "Anemiya Böyük, kövrək qırmızı qan hüceyrələrinin anormal olması ilə xarakterizə olunan qan pozğunluğu. Orta korpuskulyar hemoglobin (MCH) və orta korpuskulyar həcm (MCV) artır. Tez-tez folik turşusu və vitamin-B12 çatışmazlığının nəticəsidir.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:28:12.311Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Medulla_(Adrenal)",
+            "title": "Medulla (Adrenal)",
+            "description": "Adrenal Böyrəküstü vəzin orta hissəsi. Epinefrin (adrenalin) və norepinefrin ifraz edir.Həmçinin bax: Adrenal",
+            "date": "2023-12-26T14:20:20.582Z",
+            "relatedTerms": [
+                {
+                    "id": "Adrenal",
+                    "title": "Adrenal"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Adrenal"
+                }
+            ]
+        },
+        {
+            "id": "Medulla_şişləri_(Feoxromositoma)_(Adrenal)",
+            "title": "Medulla şişləri (Feoxromositoma) (Adrenal)",
+            "description": "Adrenal Feokromositoma adlanan böyrəküstü vəzin daxili təbəqəsi olan medullanın şişləri. Şişlər nadirdir və noradrenalin və epinefrin ifraz edir. Hipertoniya, baş ağrısı, ürək çarpması, tərləmə və qorxu epizodları ilə xarakterizə olunurlar.Həmçinin bax: Medulla (Adrenal)",
+            "date": "2023-12-26T14:21:07.260Z",
+            "relatedTerms": [
+                {
+                    "id": "Medulla_(Adrenal)",
+                    "title": "Medulla (Adrenal)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Adrenal"
+                }
+            ]
+        },
+        {
+            "id": "Meqaloblastik_(Folik_turşusu_çatışmazlığı)_(Anemiya)",
+            "title": "Meqaloblastik (Folik turşusu çatışmazlığı) (Anemiya)",
+            "description": "Anemiya Folik turşusu çatışmazlığından qaynaqlanan anemiya. Tez-tez dəmir çatışmazlığı anemiyası ilə müşayiət olunur.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:28:42.221Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Mikrositik_(Anemiya)",
+            "title": "Mikrositik (Anemiya)",
+            "description": "Anemiya Anormal kiçik qırmızı qan hüceyrələri ilə xarakterizə olunan, ümumiyyətlə xroniki qan itkisi və ya dəmir çatışmazlığı anemiyası kimi qida anemiyası ilə əlaqəli hər hansı bir anemiya. Qırmızı hüceyrə indeksləri.Həmçinin bax: Dəmir çatışmazlığı (Anemiya), Anemiya, Meqaloblastik (Folik turşusu çatışmazlığı) (Anemiya)",
+            "date": "2023-12-26T14:29:31.377Z",
+            "relatedTerms": [
+                {
+                    "id": "Dəmir_çatışmazlığı_(Anemiya)",
+                    "title": "Dəmir çatışmazlığı (Anemiya)"
+                },
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                },
+                {
+                    "id": "Meqaloblastik_(Folik_turşusu_çatışmazlığı)_(Anemiya)",
+                    "title": "Meqaloblastik (Folik turşusu çatışmazlığı) (Anemiya)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Mərkəzi_Xətt_Kateter",
+            "title": "Mərkəzi Xətt Kateter",
+            "description": "Böyük qana daxil edilən yarı daimi venadaxili kateter\nürəyə daxil olan damarlar. O, sizdə bir neçə həftə - aylarla qala bilər\ntez-tez.",
+            "date": "2023-12-27T07:10:08.655Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Mütləq_Neytrofil_Sayısı_(ANC)",
+            "title": "Mütləq Neytrofil Sayısı (ANC)",
+            "description": "[Needs updating]",
+            "date": "2023-12-26T13:03:58.438Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Mütləq_qranulosit_sayı",
+            "title": "Mütləq qranulosit sayı",
+            "description": "Qanda infeksiya ilə mübarizə apara bilən ağ qan hüceyrələrinin miqdarı.",
+            "date": "2023-12-26T13:04:22.407Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Oraq_hüceyrəsi_(Anemiya)",
+            "title": "Oraq hüceyrəsi (Anemiya)",
+            "description": "Anemiya Qan hüceyrələrində anormal bir hemoglobin forması olan insanlarda meydana gələn ağır, sağalmaz anemiya. Bu irsi xəstəlikdir.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:29:48.276Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Otoimmün",
+            "title": "Otoimmün",
+            "description": "Bədənin öz toxumasına qarşı reaksiya.",
+            "date": "2023-12-27T07:03:41.137Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Otoimmün_hemolitik_(Anemiya)",
+            "title": "Otoimmün hemolitik (Anemiya)",
+            "description": "Anemiya Otoimmün Bir şəxsin qan hüceyrələrinin öz serumu ilə parçalanmasına görə anemiya. Dəqiq səbəb məlum deyil və hələ araşdırılır.Həmçinin bax: Anemiya",
+            "date": "2023-12-27T06:50:16.843Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                },
+                {
+                    "title": "Otoimmün"
+                }
+            ]
+        },
+        {
+            "id": "Otoimmün_(Otoimmün)",
+            "title": "Otoimmün (Otoimmün)",
+            "description": "Otoimmün Bədənin öz toxumasına qarşı reaksiya.",
+            "date": "2023-12-27T06:49:00.456Z",
+            "relatedTerms": [],
+            "tags": [
+                {
+                    "title": "Otoimmün"
+                }
+            ]
+        },
+        {
+            "id": "Otoimmün_tiroid_xəstəliyi_(Otoimmün)",
+            "title": "Otoimmün tiroid xəstəliyi (Otoimmün)",
+            "description": "Otoimmün Bax: Grave",
+            "date": "2023-12-27T07:07:55.665Z",
+            "relatedTerms": [
+                {
+                    "id": "Grave",
+                    "title": "Grave"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Otoimmün"
+                }
+            ]
+        },
+        {
+            "id": "Otoimmün_xəstəlik_(Otoimmün)",
+            "title": "Otoimmün xəstəlik (Otoimmün)",
+            "description": "Otoimmün İmmunitet sisteminin bədənin öz toxumalarına hücum edən antikorlar istehsal etdiyi xəstəlik.Həmçinin bax: Otoimmün",
+            "date": "2023-12-27T07:05:00.125Z",
+            "relatedTerms": [
+                {
+                    "id": "Otoimmün",
+                    "title": "Otoimmün"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Otoimmün"
+                }
+            ]
+        },
+        {
+            "id": "Otoloji_Nəqli",
+            "title": "Otoloji Nəqli",
+            "description": "Bir xəstənin öz qan kök hüceyrələrinin toplandığı, dondurulduğu və daha sonra xəstəyə geri qaytarıldığı bir transplantasiya.",
+            "date": "2023-12-27T07:08:14.781Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Piridoksinə_cavab_verən_(Anemiya)",
+            "title": "Piridoksinə cavab verən (Anemiya)",
+            "description": "Anemiya Piridoksin müalicəsi ilə normallaşan dövriyyədə azalmış qırmızı qan hüceyrələri.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:30:45.140Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Qan_hüceyrələri",
+            "title": "Qan hüceyrələri",
+            "description": "Sümük iliyində qan meydana gətirən hüceyrələr.",
+            "date": "2023-12-27T07:08:41.159Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "QİÇS_(Qazanılmış_İmmun_Çatışmazlığı_Sindromu)",
+            "title": "QİÇS (Qazanılmış İmmun Çatışmazlığı Sindromu)",
+            "description": "Bədənin immunitet sisteminin böyük bir çatışmazlığı (immun çatışmazlığı xəstəliyi). Bədənin infeksiya ilə mübarizə qabiliyyətini azaldır və xərçəng hüceyrələri kimi anormal hüceyrələrin çoxalmasını basdırır. İmmun çatışmazlığı xəstəliyinə baxın. Cinsi yolla ötürülən bir virus, çirklənmiş qan və ya plasenta vasitəsilə yoluxmuş bir ananın fetusuna səbəb olur.",
+            "date": "2023-12-26T13:02:06.426Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Qırmızı_qan_hüceyrələri_(eritrositlər;_RBC)",
+            "title": "Qırmızı qan hüceyrələri (eritrositlər; RBC)",
+            "description": "Bədəndə oksigen daşıyan hüceyrələr (hematokrit və ya HCT ilə ölçülür)",
+            "date": "2023-12-27T07:09:00.480Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Revmatik_atəş",
+            "title": "Revmatik atəş",
+            "description": "[Needs updating]",
+            "date": "2023-12-27T06:51:57.331Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Romatoid_artrit",
+            "title": "Romatoid artrit",
+            "description": "[Needs updating]",
+            "date": "2023-12-27T06:57:42.182Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Sarı_görmə",
+            "title": "Sarı görmə",
+            "description": "Obyektlər sarı görünür. Digitalis toksikliyinin bir əlaməti.",
+            "date": "2023-12-27T07:42:46.132Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Sideroblastik_(Anemiya)",
+            "title": "Sideroblastik (Anemiya)",
+            "description": "Anemiya Sümük iliyinin vaxtından əvvəl qırmızı qan hüceyrələrinə dəmir saldığı xüsusi bir anemiya növüdür. Bu hüceyrələr normal hüceyrələr qədər bədənə oksigen nəql etmir.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:34:32.937Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Sidik_kanalı",
+            "title": "Sidik kanalı",
+            "description": "Sidiyi böyrəkdən sidik kisəsinə aparan boru.",
+            "date": "2023-12-27T07:27:57.966Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Siroz",
+            "title": "Siroz",
+            "description": "[Needs updating]",
+            "date": "2023-12-27T06:59:30.717Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Sitomeqalovirus",
+            "title": "Sitomeqalovirus",
+            "description": "Normal toxunulmazlığı olan xəstələrdə qripə bənzər simptomlar yarada bilən virus və daha ciddi problemlər (ağciyər infeksiyaları, qaraciyər problemləri və bağırsaq problemləri) immun sistemi zəif olan xəstələrdə.",
+            "date": "2023-12-27T07:26:05.724Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Sperositik_olmayan_hemolitik_(Anemiya)",
+            "title": "Sperositik olmayan hemolitik (Anemiya)",
+            "description": "Anemiya Qısaldılmış qırmızı hüceyrələrin sağ qalması membran qüsurları, qeyri-sabit hemoglobin və hüceyrədaxili qüsurlar ilə əlaqəli qırmızı qan hüceyrələrinin irsi pozğunluğu.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:31:02.571Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Stenokardiya",
+            "title": "Stenokardiya",
+            "description": "Bax: Angina (Angina pectoris)",
+            "date": "2023-12-26T14:37:58.126Z",
+            "relatedTerms": [
+                {
+                    "id": "Angina_(Angina_pectoris)",
+                    "title": "Angina (Angina pectoris)"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Sümük_iliyi_nəqli",
+            "title": "Sümük iliyi nəqli",
+            "description": "Bir xəstənin sümük iliyinin kimyəvi terapiya və / və ya radiasiya terapiyası ilə məhv edildiyi və daha sonra bir donordan və ya xəstədən əvvəl yığılmış kök hüceyrələri ilə əvəz olunduğu bir müddətdir.",
+            "date": "2023-12-27T07:09:40.658Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Sümük_iliyi_yığımı",
+            "title": "Sümük iliyi yığımı",
+            "description": "Sümük iliyinin transplantasiyada istifadə üçün pelvik sümükdən (kalça nahiyəsindən) götürüldüyü bir prosedur.",
+            "date": "2023-12-27T07:09:17.784Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Tam_qan_sayımı",
+            "title": "Tam qan sayımı",
+            "description": "Qırmızı qan hüceyrələrinin, ağ qan hüceyrələrinin və sayını təyin edən qan testi\nqanda trombositlər",
+            "date": "2023-12-27T07:10:51.345Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Turşu-dengesizliği",
+            "title": "Turşu-dengesizliği",
+            "description": "Bədənin çox miqdarda turşu və ya çox miqdarda baza saxladığı zaman meydana gələn balanssızlıq.",
+            "date": "2023-12-26T13:05:17.427Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Uremiya",
+            "title": "Uremiya",
+            "description": "Qanda sidik cövhəri kimi həddindən artıq miqdarda protein metabolizmasının əlavə məhsullarının olması. Ürəkbulanma, qusma, başgicəllənmə, konvulsiyalar və koma ilə xarakterizə olunan zəhərli bir vəziyyətdə (böyrək çatışmazlığında olduğu kimi) nəticələr.",
+            "date": "2023-12-27T07:27:42.360Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Ureterosel",
+            "title": "Ureterosel",
+            "description": "Sidik kisəsi ilə birləşən sidik axarının ucunun prolapsı. Prolaps, bir hissənin adi vəziyyətindən düşməsi və ya sürüşməsidir. Vəziyyət sidik axınının maneə törədilməsi və hidronefroz və böyrək funksiyasının itirilməsi ilə nəticələnə bilər. Böyrəklərin qalıcı zədələnməsinin qarşısını almaq üçün əməliyyat lazımdırHəmçinin bax: Hidronefroz",
+            "date": "2023-12-27T07:30:36.517Z",
+            "relatedTerms": [
+                {
+                    "id": "Hidronefroz",
+                    "title": "Hidronefroz"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Uretra",
+            "title": "Uretra",
+            "description": "Sidik kisəsindən bədən xaricinə aparan içi boş anatomik quruluş.",
+            "date": "2023-12-27T07:32:30.802Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Uretrit",
+            "title": "Uretrit",
+            "description": "uretranın iltihabı və ya infeksiyası.",
+            "date": "2023-12-27T07:32:49.728Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Ürək_qapaq_xəstəliyi",
+            "title": "Ürək qapaq xəstəliyi",
+            "description": "Ürək qapaqlarını təhrif edən və ya məhv edən xəstəliklərin ağırlaşması. Ürəyin dörd qapağı var. Ürək qapaq xəstəliyi qan axınına mane olan daralmış klapanlar (stenoz) və ya qanın ürəyə geriyə sızmasına imkan verən genişlənmiş və ya çapıqlı klapanlar ola bilər (çatışmazlıq və ya regurgitasiya). Bu pozğunluq irsi ola bilər və ya revmatik qızdırma, hipertoniya, ateroskleroz, endokardit və ya sifilis (nadir hallarda) kimi başqa bir xəstəlikdən qaynaqlana bilər. Xəstəliyin nəticəsi əsas vəziyyətdən asılıdır. Bir çox fəsadlar və simptomlar dərmanla idarə oluna bilər və ya cərrahi yolla müalicə edilə bilər. Revmatik qızdırmaya baxın; hipertansiyon; sifilis.",
+            "date": "2023-12-27T07:34:33.575Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Urogenital",
+            "title": "Urogenital",
+            "description": "İnsan bədəninin böyrək və reproduktiv sistemlərinə aiddir. Həm də genitouriya adlanır.",
+            "date": "2023-12-27T07:33:02.613Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Urokinaz_müalicəsi",
+            "title": "Urokinaz müalicəsi",
+            "description": "Sidikdə aşkar edilən urokinaz fermenti ilə müalicə. Ferment bədəndəki qan laxtalarını həll edən sistemi aktivləşdirir.",
+            "date": "2023-12-27T07:33:29.223Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Varis",
+            "title": "Varis",
+            "description": "Genişlənmiş damarlar, arteriyalar və ya limfa damarları.",
+            "date": "2023-12-27T07:34:48.765Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Vaskulit",
+            "title": "Vaskulit",
+            "description": "qan damarının iltihabı.",
+            "date": "2023-12-27T07:35:02.168Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Vater_Ampulla",
+            "title": "Vater Ampulla",
+            "description": "İncə bağırsaq hissəsinə girmədən əvvəl mədəaltı vəzin və ümumi öd yolunun birləşdiyi genişlənmiş sahə.",
+            "date": "2023-12-26T13:34:45.288Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Vazokonstriksiya",
+            "title": "Vazokonstriksiya",
+            "description": "Qan damarlarının sıxıldığı və ya daraldığı dövlət. Sinir sisteminin daralması üçün qan damarlarına mesaj göndərməsi səbəb ola bilər. Dərmanlarla da yarana bilər. Vasopressin - hipotalamus tərəfindən istehsal olunan və hipofiz vəzində saxlanılan hormon. Effektlərə kiçik qan damarlarının əzələ qatının daralması, bağırsaq traktının hamar əzələlərinin daralması və uterusun daralmasının stimullaşdırılması daxildir. Antidiuretik hormon da deyilir. Böyrək borularına xüsusi təsir göstərir, suyun rezorbsiyasını stimullaşdırır, sidik konsentrasiyasına səbəb olur.",
+            "date": "2023-12-27T07:35:19.068Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Vazopressinə_davamlı_diabet_insipidus",
+            "title": "Vazopressinə davamlı diabet insipidus",
+            "description": "Vazopressin ilə müalicəyə cavab verməyən diabet insipidus.Həmçinin bax: Diabet insipidus",
+            "date": "2023-12-27T07:36:13.567Z",
+            "relatedTerms": [
+                {
+                    "id": "Diabet_insipidus",
+                    "title": "Diabet insipidus"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Vegener_qranulomatozu",
+            "title": "Vegener qranulomatozu",
+            "description": "Bronxlarda və ağciyərlərdə zədələnmələr, kiçik arteriyaların çapıqlanması və bədənin bütün orqanlarının geniş yayılmış iltihabı ilə xarakterizə olunan mütərəqqi xəstəlik.",
+            "date": "2023-12-27T07:39:52.571Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Venöz_hipertoniya",
+            "title": "Venöz hipertoniya",
+            "description": "Damarlarda təzyiq normadan yüksəkdir.",
+            "date": "2023-12-27T07:36:44.566Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Venoz_tromboz",
+            "title": "Venoz tromboz",
+            "description": "Bir damarda qan laxtalanması.",
+            "date": "2023-12-27T07:37:00.428Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "vertebral_arteriya_xəstəliyi",
+            "title": "vertebral arteriya xəstəliyi",
+            "description": "Boyun, fəqərə, beyincik və beyin və onurğa beyninin digər hissələrini qanla təmin edən böyük arteriya olan vertebral arteriyada xəstəlik (adətən arteriyanın sərtləşməsi). Vezikoureteral reflü - sidiyin sidik kisəsindən sidik axarlarına və böyrəklərə geri axdığı vəziyyət. Sidik kisəsi zəif boşaldığı üçün sidik yollarının infeksiyası ola bilər ki, bu da xroniki pielonefritə və hətta böyrəklərin zədələnməsinə səbəb ola bilər. Piyelonefritə baxın. Reflü anadangəlmə qüsur, sidik kisəsi infeksiyası və ya neyrogen sidik kisəsi səbəb ola bilər. Bəzən səbəb bilinmir. Müalicə antibiotiklərin qəbulunu əhatə edir. Nadir hallarda cərrahi müdaxilə tələb oluna bilər.",
+            "date": "2023-12-27T07:37:19.022Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Vestibulyar",
+            "title": "Vestibulyar",
+            "description": "Daxili qulağın ortasındakı ağız boşluğuna aiddir.",
+            "date": "2023-12-27T07:37:32.032Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Virilizasiya",
+            "title": "Virilizasiya",
+            "description": "İkinci dərəcəli kişi cinsi xüsusiyyətlərinin qadın tərəfindən əldə edildiyi proses, adətən böyrəküstü vəzi(lər)in və ya hormon dərmanlarının disfunksiyasının nəticəsidir. Kişiləşmə də deyilir.",
+            "date": "2023-12-27T07:37:47.861Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Vitreus_(Şüşəvari_yumor)",
+            "title": "Vitreus (Şüşəvari yumor)",
+            "description": "Gözün çox hissəsini dolduran şəffaf maye.",
+            "date": "2023-12-27T07:38:13.991Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Vizual_sahə",
+            "title": "Vizual sahə",
+            "description": "Görmə sahəsi xüsusi testlərlə ölçülür.",
+            "date": "2023-12-27T07:37:59.677Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Von_Willebrand_xəstəliyi",
+            "title": "Von Willebrand xəstəliyi",
+            "description": "Qanın anormal dərəcədə yavaş laxtalanması ilə xarakterizə olunan, spontan burun qanamalarına və ya diş ətinin qanamasına səbəb olan irsi xəstəlik. VIII qan faktorunun çatışmazlığı səbəbindən. Həddindən artıq qanaxma əməliyyatdan sonra və ya menstruasiya zamanı da baş verə bilər amil VIII.",
+            "date": "2023-12-27T07:38:59.718Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Waldenstrom_makroqlobulinemiyası",
+            "title": "Waldenstrom makroqlobulinemiyası",
+            "description": "Anemiya Qanda anormal zülallar, şişkin limfa vəziləri, genişlənmiş qaraciyər və dalaq, anemiya və sümük iliyində dəyişikliklərlə əlaqəli nadir, mütərəqqi pozğunluqHəmçinin bax: Anemiya",
+            "date": "2023-12-27T07:39:28.921Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Whipple_xəstəliyi",
+            "title": "Whipple xəstəliyi",
+            "description": "Diareya, nəcisdə piylənmə, dəri piqmentasiyası, oynaq xəstəlikləri və mərkəzi sinir sistemində zədələnmələrlə xarakterizə olunan malabsorbsiya xəstəliyi.",
+            "date": "2023-12-27T07:40:06.850Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Wilm_şişi",
+            "title": "Wilm şişi",
+            "description": "5 yaşa qədər uşaqlarda böyrəklərin sürətlə inkişaf edən bədxassəli şişi.",
+            "date": "2023-12-27T07:40:38.036Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Wilson_sindromu",
+            "title": "Wilson sindromu",
+            "description": "Qaraciyərin və gözdəki lens nüvəsinin degenerasiyası.",
+            "date": "2023-12-27T07:41:30.472Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Wiskott-Aldrich_sindromu",
+            "title": "Wiskott-Aldrich sindromu",
+            "description": "İrsi immun çatışmazlığı xəstəliyi yalnız kişilərə təsir göstərir. Şiddətli qanaxma, ekzema, təkrarlanan infeksiyalar və bədxassəli şişlərin inkişaf riskinin artması ilə xarakterizə olunur. Orta ömür müddəti 4 il olan erkən ölümə səbəb olur.",
+            "date": "2023-12-27T07:41:48.295Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Wolff-Parkinson-White_sindromu",
+            "title": "Wolff-Parkinson-White sindromu",
+            "description": "Elektrokardioqrammada (EEG) xarakterik dəyişikliklərlə aralıqlı sürətli ürək döyüntüsü və ya atrial fibrilasiya.",
+            "date": "2023-12-27T07:42:01.930Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "xora",
+            "title": "xora",
+            "description": "Doku ölümü nəticəsində dərinin və ya selikli qişanın yuvarlaq, krater kimi zədələnməsi. Bəzi iltihablı, yoluxucu və ya xərçəngli şərtləri müşayiət edir.",
+            "date": "2023-12-27T07:26:31.313Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "xoralı_kolit",
+            "title": "xoralı kolit",
+            "description": "Yoğun bağırsağın (kolon) ağır, xroniki iltihabi xəstəliyi. Ülser və qanlı ishal epizodları ilə xarakterizə olunur. Xoralı nahiyələr iltihablanır və qalın bağırsağın selikli qişasında abseslər əmələ gələ bilər.",
+            "date": "2023-12-27T07:26:53.160Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Xroniki_hemolitik_(Anemiya)",
+            "title": "Xroniki hemolitik (Anemiya)",
+            "description": "Anemiya İrsi sferositoz, G-6-PD çatışmazlığı, oraq hüceyrəli anemiya və ya talassemiya kimi irsi bir xəstəlikdən qaynaqlanan anemiya. Hal-hazırda heç bir müalicə məlum deyil.G-6-PD çatışmazlığı; oraq hüceyrəli anemiya; talassemiya.Həmçinin bax: Hemolitik (Anemiya)",
+            "date": "2023-12-26T14:31:24.160Z",
+            "relatedTerms": [
+                {
+                    "id": "Hemolitik_(Anemiya)",
+                    "title": "Hemolitik (Anemiya)"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        },
+        {
+            "id": "Yapışmalar",
+            "title": "Yapışmalar",
+            "description": "Qarın və çanaqdakı orqanların anormal şəkildə yapışmasına səbəb olan kiçik lifli toxuma bağırsaq obstruksiyası riski yaradır.",
+            "date": "2023-12-26T13:17:18.380Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Zenker_divertikulu",
+            "title": "Zenker divertikulu",
+            "description": "Farenks və özofagusun toxunduğu bölgədə boşalma.",
+            "date": "2023-12-27T07:43:02.854Z",
+            "relatedTerms": [],
+            "tags": []
+        },
+        {
+            "id": "Zollinger-Ellison_sindromu",
+            "title": "Zollinger-Ellison sindromu",
+            "description": "Üç xüsusiyyəti olan sindrom: mədə və ya nazik bağırsağın ağır xoraları, mədə turşusunun həddindən artıq hipersekresiyası və mədəaltı vəzinin şişləri. Uşaqlarda və böyüklərdə baş verə bilər. Müalicəyə xora əleyhinə dərmanlar daxildir, lakin mədənin tam cərrahi çıxarılması tələb oluna bilər.Həmçinin bax: xora",
+            "date": "2023-12-27T07:43:26.462Z",
+            "relatedTerms": [
+                {
+                    "id": "xora",
+                    "title": "xora"
+                }
+            ],
+            "tags": []
+        },
+        {
+            "id": "Zərərli_(Anemiya)",
+            "title": "Zərərli (Anemiya)",
+            "description": "Anemiya B12 vitamininin qeyri-kafi sorulmasından qaynaqlanan anemiya.Həmçinin bax: Anemiya",
+            "date": "2023-12-26T14:30:28.327Z",
+            "relatedTerms": [
+                {
+                    "id": "Anemiya",
+                    "title": "Anemiya"
+                }
+            ],
+            "tags": [
+                {
+                    "title": "Anemiya"
+                }
+            ]
+        }
+    ]
+}
